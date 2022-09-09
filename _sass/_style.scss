@@ -24,6 +24,8 @@ a:hover {
 hr {
     border: 0;
     height: 0;
+    margin-top: 25px;
+    margin-bottom: 25px;
     border-top: 1px solid rgba(0, 0, 0, 0.1);
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
@@ -125,6 +127,33 @@ hr {
 	#navlist li.nav-list {
 		margin: 0;
 	}
+}
+
+.title-main {
+    font-weight: bolder;
+    font-family: 'Amatic SC', cursive;
+    font-size: 48px;
+}
+
+.title-secondary {
+    font-weight: lighter;
+    color: lightgrey;
+    font-family: 'Amatic SC', cursive;
+    font-size: 36px;
+}
+
+.section-bar {
+    border-left: 6px solid darkslategrey;
+    height: 10px;
+    margin-right: 10px;
+}
+
+h2 {
+    display: inline;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: lighter;
+    color: #333333;
+    background-color: #FFEB3B;
 }
 
 @import "typography";

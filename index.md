@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## About Me
+## <span class="section-bar"></span> About Me
 
 <img class="profile-picture" src="profile-picture.jpeg">
 
@@ -10,21 +10,21 @@ I am currently pursuing Master's in **Data Science** at **EPFL**. Previously, I 
 
 --- 
 
-## Research Interests
+## <span class="section-bar"></span> Research Interests
 
 My interests broadly lie within the nature of *robust artificial intelligence, language, cognitive science and mind*. Currently, I am exploring **neurosymbolic AI, reasoning, compositionality, linguistically motivated NLP and knowledge-driven, cognitive-model-based AI**.  
 
 
 --- 
 
-## Projects
+## <span class="section-bar"></span> Projects
 1. kogito. A Knowledge Inference Toolkit. [[docs](https://kogito.readthedocs.io)] [[demo](https://kogito.live)] [[code](https://github.com/epfl-nlp/kogito)]
 2. Words and Personalities. Personality analysis based on quotes. [[demo](https://mismayil.github.io/words-personalities)] [[code](https://github.com/mismayil/words-personalities)]
 3. Differentially Private Random Forest Classifier. [[code](https://github.com/IBM/differential-privacy-library/releases/tag/0.5.0)]
 
 ---
 
-## Education
+## <span class="section-bar"></span> Education
 
 1. Master's in Data Science. EPFL. Switzerland. 2021-Present.
 2. Bachelor's in Computer Science. University of Waterloo. Canada. 2012-2016.
@@ -32,7 +32,7 @@ My interests broadly lie within the nature of *robust artificial intelligence, l
 
 --- 
 
-## Experience
+## <span class="section-bar"></span> Experience
 
 1. Research Intern. Sony Inc. Tokyo, Japan. 2022.
 2. Software/ML Engineer. integrate.ai. Toronto, Canada. 2019-2021.
@@ -44,18 +44,18 @@ My interests broadly lie within the nature of *robust artificial intelligence, l
 
 ---
 
-## Blogposts
+## <span class="section-bar"></span> Blogposts
 1. From Words to Vectors. Towards Data Science. Medium. [[link](https://medium.com/towards-data-science/from-words-to-vectors-e24f0977193e)]
 
 ---
 
-## Hobbies
+## <span class="section-bar"></span> Hobbies
 In my free time, I like to [read](https://www.goodreads.com/user/show/34889251-mete-ismayil), [bike](https://www.strava.com/athletes/33241990), [play piano](https://youtube.com/playlist?list=PLWgqALhmmentLA30W40VUV6HXOHH0n6z-) and watch (usually long) [art films](https://www.imdb.com/list/ls510629744/).
 
 ---
 
 
-## Contact
+## <span class="section-bar"></span> Contact
 1. [mismayilza [at] gmail [dot] com](mailto:)
 2. [github](https://github.com/mismayil)
 3. [linkedin](https://www.linkedin.com/in/mismayilzada)
