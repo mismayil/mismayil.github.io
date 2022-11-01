@@ -32,7 +32,14 @@ My interests broadly lie within the nature of *robust artificial intelligence, l
 
 --- 
 
-## <span class="section-bar"></span> Experience
+## <span class="section-bar"></span> Academic Experience
+
+1. **Student Assistant**. [Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2022/cs401/). EPFL. Fall 2022.
+2. **Research Assistant**. [Artificial Intelligence Lab](https://lia.epfl.ch/). EPFL. Fall 2022.
+
+---
+
+## <span class="section-bar"></span> Industry Experience
 
 1. **Research Intern**. Sony Inc. Tokyo, Japan. 2022.
 2. **Software/ML Engineer**. integrate.ai. Toronto, Canada. 2019-2021.
@@ -41,12 +48,6 @@ My interests broadly lie within the nature of *robust artificial intelligence, l
 4. **Software Engineer**. Cisco Systems. Ottawa, Canada. 2016-2017.
 5. **Software Engineer Intern**. Freescale Semiconductors. Ottawa, Canada. Summer 2015.
 6. **Software Developer Intern**. TD Securities. Toronto, Canada. Summer 2014.
-
----
-
-## <span class="section-bar"></span> Teaching Experience
-
-1. Student Assistant. [Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2022/cs401/). EPFL. Fall 2022.
 
 ---
 
