@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="profile-picture.jpeg">
 
-I am currently pursuing Master's in **Data Science** at **EPFL** where I do research on reasoning at [NLP Lab](https://nlp.epfl.ch). Previously, I have been software/ML engineer, co-founder/entrepreneur and have 5+ years of experience in areas ranging from semiconductors to AI. I am also a proud **University of Waterloo** alumnus.
+I am currently pursuing Master's in **Data Science** at **EPFL** where I do research on reasoning at [NLP Lab](https://nlp.epfl.ch) and [AI lab](https://lia.epfl.ch/). Previously, I have been software/ML engineer, co-founder/entrepreneur and have 5+ years of experience in areas ranging from semiconductors to AI. I am also a proud **University of Waterloo** alumnus.
 
 
 --- 
