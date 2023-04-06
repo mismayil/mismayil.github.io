@@ -18,33 +18,42 @@ My interests broadly lie within the nature of *robust artificial intelligence, l
 --- 
 
 ## <span class="section-bar"></span> Publications
-1. **kogito: A Commonsense Knowledge Inference Toolkit.** Preprint. Mete Ismayilzada, Antoine Bosselut. [[paper](https://arxiv.org/abs/2211.08451)] [[demo](https://kogito.live)] [[code](https://github.com/epfl-nlp/kogito)] [[docs](https://kogito.readthedocs.io)]
+1. **REFINER: Reasoning Feedback on Intermediate Representations**<br/>
+<span class="authors">Debjit Paul, **Mete Ismayilzada**, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings</span><br/>
+<span class="conference">Preprint</span><br/>
+[[paper](https://arxiv.org/abs/2304.01904)]
+2. **kogito: A Commonsense Knowledge Inference Toolkit.**<br/>
+<span class="authors">**Mete Ismayilzada**, Antoine Bosselut.</span><br/>
+<span class="conference">EACL 2023</span><br/>
+[[paper](https://arxiv.org/abs/2211.08451)] [[demo](https://kogito.live)] [[code](https://github.com/epfl-nlp/kogito)] [[docs](https://kogito.readthedocs.io)]
 
 ---
 
 ## <span class="section-bar"></span> Education
 
-1. **Master's in Data Science**. EPFL. Switzerland. 2021-Present.
-2. **Bachelor's in Computer Science**. University of Waterloo. Canada. 2012-2016.
+1. **Master's in Data Science**. EPFL. Switzerland. <span class="dates">2021-Present.</span>
+2. **Bachelor's in Computer Science**. University of Waterloo. Canada. <span class="dates">2012-2016.</span>
 
 --- 
 
 ## <span class="section-bar"></span> Academic Experience
 
-1. **Student Assistant**. [Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2022/cs401/). EPFL. Fall 2022.
-2. **Research Assistant**. [Artificial Intelligence Lab](https://lia.epfl.ch/). EPFL. Fall 2022.
+1. **Student Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2023.</span>
+2. **Student Teaching Assistant**. [Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2022/cs401/). EPFL. <span class="dates">Fall 2022</span>
+3. **Research Assistant**. [Artificial Intelligence Lab](https://lia.epfl.ch/). EPFL. <span class="dates">Fall 2022.</span>
 
 ---
 
 ## <span class="section-bar"></span> Industry Experience
 
-1. **Research Intern**. Sony Inc. Tokyo, Japan. 2022.
-2. **Software/ML Engineer**. integrate.ai. Toronto, Canada. 2019-2021.
-3. **Co-founder/CTO**. Destin AI. Toronto, Canada. 2017-2019.
-3. **Software Engineer**. Bluecat Networks. Toronto, Canada. 2017-2018.
-4. **Software Engineer**. Cisco Systems. Ottawa, Canada. 2016-2017.
-5. **Software Engineer Intern**. Freescale Semiconductors. Ottawa, Canada. Summer 2015.
-6. **Software Developer Intern**. TD Securities. Toronto, Canada. Summer 2014.
+1. **Research Intern**. Sony Inc. Tokyo, Japan. <span class="dates">Summer 2022.</span>
+2. **Software/ML Engineer**. integrate.ai. Toronto, Canada. <span class="dates">2019-2021</span>
+3. **Co-founder/CTO**. Destin AI. Toronto, Canada. <span class="dates">2017-2019.</span>
+3. **Software Engineer**. Bluecat Networks. Toronto, Canada. <span class="dates">2017-2018.</span>
+4. **Software Engineer**. Cisco Systems. Ottawa, Canada. <span class="dates">2016-2017.</span>
+5. **Software Engineer Intern**. Freescale Semiconductors. Ottawa, Canada. <span class="dates">Summer 2015.</span>
+6. **Software Developer Intern**. TD Securities. Toronto, Canada. <span class="dates">Summer 2014.</span>
+7. **Software Developer Intern**. Azercell MMC. Baku, Azerbaijan. <span class="dates">Summer 2013.</span>
 
 ---
 
