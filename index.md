@@ -5,14 +5,16 @@ layout: default
 
 <img class="profile-picture" src="profile-picture.jpeg">
 
-I am currently pursuing Master's in **Data Science** at **EPFL** where I do research on reasoning at [NLP Lab](https://nlp.epfl.ch) and [AI lab](https://lia.epfl.ch/). Previously, I have been software/ML engineer, co-founder/entrepreneur and have 5+ years of experience in areas ranging from semiconductors to AI. I am also a proud **University of Waterloo** alumnus.
+I am currently a **Ph.D student** at [EPFL](https://epfl.ch) advised by prof.[Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP lab](https://nlp.epfl.ch) and a **Research Assistant** at [IDIAP](https://idiap.ch) supervised by prof.[Lonneke van der Plas](https://www.idiap.ch/~lvdplas/) at the [Computation, Cognition and Language](https://www.idiap.ch/~lvdplas/) group. 
+
+Previously, I completed my MSc. in Data Science at EPFL where I did research on commonsense reasoning. In the past, I have been a software/ML engineer, co-founder/entrepreneur and have 5+ years of experience in areas ranging from semiconductors to AI. I am also a proud University of Waterloo alumnus where I finished my Bachelor's in Computer Science.
 
 
 --- 
 
 ## <span class="section-bar"></span> Research Interests
 
-My interests broadly lie within the nature of *robust artificial intelligence, language, cognitive science and mind*. Currently, I am exploring **neurosymbolic AI, reasoning, compositionality, abstraction/analogy, linguistically motivated NLP and knowledge-driven, cognitive-model-based AI**.  
+My interests broadly lie within the nature of **robust artificial intelligence, language, cognitive science and mind**. Currently, my research focuses on **computational creativity**. I am in addition exploring neurosymbolic AI, reasoning, compositionality, abstraction/analogy, linguistically motivated NLP and knowledge-driven, cognitive-model-based AI.  
 
 
 --- 
@@ -20,19 +22,20 @@ My interests broadly lie within the nature of *robust artificial intelligence, l
 ## <span class="section-bar"></span> Publications
 1. **REFINER: Reasoning Feedback on Intermediate Representations**<br/>
 <span class="authors">Debjit Paul, **Mete Ismayilzada**, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings</span><br/>
-<span class="conference">Preprint</span><br/>
+<span class="conference">Preprint 2023</span><br/>
 [[paper](https://arxiv.org/abs/2304.01904)]
 2. **kogito: A Commonsense Knowledge Inference Toolkit.**<br/>
 <span class="authors">**Mete Ismayilzada**, Antoine Bosselut.</span><br/>
 <span class="conference">EACL 2023</span><br/>
-[[paper](https://arxiv.org/abs/2211.08451)] [[demo](https://kogito.live)] [[code](https://github.com/epfl-nlp/kogito)] [[docs](https://kogito.readthedocs.io)]
+[[paper](https://aclanthology.org/2023.eacl-demo.12)] [[code](https://github.com/epfl-nlp/kogito)] [[docs](https://kogito.readthedocs.io)]
 
 ---
 
 ## <span class="section-bar"></span> Education
 
-1. **Master's in Data Science**. EPFL. Switzerland. <span class="dates">2021-Present.</span>
-2. **Bachelor's in Computer Science**. University of Waterloo. Canada. <span class="dates">2012-2016.</span>
+1. **Ph.D in Computer Science**. EPFL. Lausanne, Switzerland. <span class="dates">2023-Present.</span>
+2. **Master's in Data Science**. EPFL. Lausanne, Switzerland. <span class="dates">2021-2023.</span>
+3. **Bachelor's in Computer Science**. University of Waterloo. Waterloo, Canada. <span class="dates">2012-2016.</span>
 
 --- 
 
@@ -46,14 +49,15 @@ My interests broadly lie within the nature of *robust artificial intelligence, l
 
 ## <span class="section-bar"></span> Industry Experience
 
-1. **Research Intern**. Sony Inc. Tokyo, Japan. <span class="dates">Summer 2022.</span>
-2. **Software/ML Engineer**. integrate.ai. Toronto, Canada. <span class="dates">2019-2021</span>
-3. **Co-founder/CTO**. Destin AI. Toronto, Canada. <span class="dates">2017-2019.</span>
-3. **Software Engineer**. Bluecat Networks. Toronto, Canada. <span class="dates">2017-2018.</span>
-4. **Software Engineer**. Cisco Systems. Ottawa, Canada. <span class="dates">2016-2017.</span>
-5. **Software Engineer Intern**. Freescale Semiconductors. Ottawa, Canada. <span class="dates">Summer 2015.</span>
-6. **Software Developer Intern**. TD Securities. Toronto, Canada. <span class="dates">Summer 2014.</span>
-7. **Software Developer Intern**. Azercell MMC. Baku, Azerbaijan. <span class="dates">Summer 2013.</span>
+1. **Research Assistant**. IDIAP. Martigny, Switzerland. <span class="dates">2023-Present.</span>
+2. **Research Intern**. Sony Inc. Tokyo, Japan. <span class="dates">Summer 2022.</span>
+3. **Software/ML Engineer**. integrate.ai. Toronto, Canada. <span class="dates">2019-2021</span>
+4. **Co-founder/CTO**. Destin AI. Toronto, Canada. <span class="dates">2017-2019.</span>
+5. **Software Engineer**. Bluecat Networks. Toronto, Canada. <span class="dates">2017-2018.</span>
+6. **Software Engineer**. Cisco Systems. Ottawa, Canada. <span class="dates">2016-2017.</span>
+7. **Software Engineer Intern**. Freescale Semiconductors. Ottawa, Canada. <span class="dates">Summer 2015.</span>
+8. **Software Developer Intern**. TD Securities. Toronto, Canada. <span class="dates">Summer 2014.</span>
+9. **Software Developer Intern**. Azercell MMC. Baku, Azerbaijan. <span class="dates">Summer 2013.</span>
 
 ---
 
