@@ -62,8 +62,9 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 ---
 
 ## <span class="section-bar"></span> Projects
-1. **Mini-Pytorch**. From scratch implementation of (mini) pytorch autograd and several core modules. [[code](https://github.com/mismayil/mini-pytorch)]
-2. **Words and Personalities**. Personality analysis based on quotes. [[demo](https://mismayil.github.io/words-personalities)] [[code](https://github.com/mismayil/words-personalities)]
+1. **Parrot**. Educational toolkit for interaction with OpenAI models. [[code]](https://github.com/epfl-nlp/parrot)
+2. **Mini-Pytorch**. From scratch implementation of (mini) pytorch autograd and several core modules. [[code](https://github.com/mismayil/mini-pytorch)]
+3. **Words and Personalities**. Personality analysis based on quotes. [[demo](https://mismayil.github.io/words-personalities)] [[code](https://github.com/mismayil/words-personalities)]
 3. **Differentially Private Random Forest Classifier**. [[code](https://github.com/IBM/differential-privacy-library/releases/tag/0.5.0)]
 
 ---
