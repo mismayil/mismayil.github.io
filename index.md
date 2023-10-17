@@ -26,7 +26,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 [[paper](https://arxiv.org/abs/2304.01904)]
 2. **kogito: A Commonsense Knowledge Inference Toolkit.**<br/>
 <span class="authors">**Mete Ismayilzada**, Antoine Bosselut.</span><br/>
-<span class="conference">EACL 2023</span><br/>
+<span class="conference">EACL System Demonstrations Track, 2023</span><br/>
 [[paper](https://aclanthology.org/2023.eacl-demo.12)] [[code](https://github.com/epfl-nlp/kogito)] [[docs](https://kogito.readthedocs.io)]
 
 ---
