@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="profile-picture.jpeg">
 
-I am currently a **Ph.D student** at [EPFL](https://epfl.ch) advised by prof.[Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP lab](https://nlp.epfl.ch) and a **Research Assistant** at [IDIAP](https://idiap.ch) supervised by prof.[Lonneke van der Plas](https://www.idiap.ch/~lvdplas/) at the [Computation, Cognition and Language](https://www.idiap.ch/~lvdplas/) group. 
+I am currently a **Ph.D. student** at [EPFL](https://epfl.ch) advised by prof.[Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP lab](https://nlp.epfl.ch) and a **Research Assistant** at [IDIAP](https://idiap.ch) supervised by prof.[Lonneke van der Plas](https://www.idiap.ch/~lvdplas/) at the [Computation, Cognition and Language](https://www.idiap.ch/~lvdplas/) group. 
 
 Previously, I completed my MSc. in Data Science at EPFL where I did research on commonsense reasoning. In the past, I have been a software/ML engineer, co-founder/entrepreneur and have 5+ years of experience in areas ranging from semiconductors to AI. I am also a proud University of Waterloo alumnus where I finished my Bachelor's in Computer Science.
 
@@ -45,25 +45,30 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 --- 
 
-## <span class="section-bar"></span> Academic Experience
+## <span class="section-bar"></span> Research Experience
 
-1. **Student Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2023.</span>
-2. **Student Teaching Assistant**. [Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2022/cs401/). EPFL. <span class="dates">Fall 2022</span>
-3. **Research Assistant**. [Artificial Intelligence Lab](https://lia.epfl.ch/). EPFL. <span class="dates">Fall 2022.</span>
+1. **Research Assistant**. IDIAP. Martigny, Switzerland. <span class="dates">2023-Present.</span>
+2. **Research Assistant**. [Artificial Intelligence Lab](https://lia.epfl.ch/). EPFL. <span class="dates">Fall 2022.</span>
+3. **Research Intern**. Sony Inc. Tokyo, Japan. <span class="dates">Summer 2022.</span>
 
 ---
 
-## <span class="section-bar"></span> Industry Experience
+## <span class="section-bar"></span> TA Experience
 
-1. **Research Assistant**. IDIAP. Martigny, Switzerland. <span class="dates">2023-Present.</span>
-2. **Research Intern**. Sony Inc. Tokyo, Japan. <span class="dates">Summer 2022.</span>
-3. **Software/ML Engineer**. integrate.ai. Toronto, Canada. <span class="dates">2019-2021</span>
-4. **Co-founder/CTO**. Destin AI. Toronto, Canada. <span class="dates">2017-2019.</span>
-5. **Software Engineer**. Bluecat Networks. Toronto, Canada. <span class="dates">2017-2018.</span>
-6. **Software Engineer**. Cisco Systems. Ottawa, Canada. <span class="dates">2016-2017.</span>
-7. **Software Engineer Intern**. Freescale Semiconductors. Ottawa, Canada. <span class="dates">Summer 2015.</span>
-8. **Software Developer Intern**. TD Securities. Toronto, Canada. <span class="dates">Summer 2014.</span>
-9. **Software Developer Intern**. Azercell MMC. Baku, Azerbaijan. <span class="dates">Summer 2013.</span>
+1. **Student Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2023.</span>
+2. **Student Teaching Assistant**. [Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2022/cs401/). EPFL. <span class="dates">Fall 2022</span>
+
+---
+
+## <span class="section-bar"></span> Engineering Experience
+
+1. **Software/ML Engineer**. integrate.ai. Toronto, Canada. <span class="dates">2019-2021</span>
+2. **Co-founder/CTO**. Destin AI. Toronto, Canada. <span class="dates">2017-2019.</span>
+3. **Software Engineer**. Bluecat Networks. Toronto, Canada. <span class="dates">2017-2018.</span>
+4. **Software Engineer**. Cisco Systems. Ottawa, Canada. <span class="dates">2016-2017.</span>
+5. **Software Engineer Intern**. Freescale Semiconductors. Ottawa, Canada. <span class="dates">Summer 2015.</span>
+6. **Software Developer Intern**. TD Securities. Toronto, Canada. <span class="dates">Summer 2014.</span>
+7. **Software Developer Intern**. Azercell MMC. Baku, Azerbaijan. <span class="dates">Summer 2013.</span>
 
 ---
 
@@ -81,7 +86,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 ---
 
 ## <span class="section-bar"></span> Hobbies
-In my free time, I like to [read](https://www.goodreads.com/user/show/34889251-mete-ismayil), [bike](https://www.strava.com/athletes/33241990), [play piano](https://youtube.com/playlist?list=PLWgqALhmmentLA30W40VUV6HXOHH0n6z-) and watch (usually long) [international arthouse films](https://boxd.it/ggyee).
+In my free time, I like to [read](https://www.goodreads.com/user/show/34889251-mete-ismayil), [bike](https://www.strava.com/athletes/33241990), [play piano](https://youtube.com/playlist?list=PLWgqALhmmentLA30W40VUV6HXOHH0n6z-) and watch (usually long) [international art films](https://boxd.it/ggyee).
 
 ---
 
