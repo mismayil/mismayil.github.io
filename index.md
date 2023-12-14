@@ -22,8 +22,8 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 ## <span class="section-bar"></span> Publications
 1. **CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks**<br/>
 <span class="authors">**Mete Ismayilzada**, Debjit Paul, Syrielle Montariol, Mor Geva, Antoine Bosselut</span><br/>
-<span class="conference">EMNLP 2023</span><br/>
-[[paper](https://arxiv.org/abs/2310.15239)] [[website](https://mete.is/crow)] 
+<span class="conference">EMNLP Main 2023 (Oral)</span><br/>
+[[paper](https://aclanthology.org/2023.emnlp-main.607)] [[website](https://mete.is/crow)] 
 
 2. **REFINER: Reasoning Feedback on Intermediate Representations**<br/>
 <span class="authors">Debjit Paul, **Mete Ismayilzada**, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings</span><br/>
@@ -32,7 +32,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 3. **kogito: A Commonsense Knowledge Inference Toolkit.**<br/>
 <span class="authors">**Mete Ismayilzada**, Antoine Bosselut.</span><br/>
-<span class="conference">EACL System Demonstrations Track, 2023</span><br/>
+<span class="conference">EACL System Demonstrations Track, 2023 (Poster)</span><br/>
 [[paper](https://aclanthology.org/2023.eacl-demo.12)] [[code](https://github.com/epfl-nlp/kogito)] [[docs](https://kogito.readthedocs.io)]
 
 ---
