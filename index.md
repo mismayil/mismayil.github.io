@@ -30,7 +30,12 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 <span class="conference">Preprint 2023</span><br/>
 [[paper](https://arxiv.org/abs/2304.01904)]
 
-3. **kogito: A Commonsense Knowledge Inference Toolkit.**<br/>
+3. **&delta;-CAUSAL: Exploring Defeasibility in Causal Reasoning**<br/>
+<span class="authors">Shaobo Cui, Lazar Milikic, Yiyang Feng, **Mete Ismayilzada**, Debjit Paul, Antoine Bosselut, Boi Faltings</span><br/>
+<span class="conference">Preprint 2023</span><br/>
+[[paper](https://arxiv.org/abs/2401.03183)]
+
+4. **kogito: A Commonsense Knowledge Inference Toolkit.**<br/>
 <span class="authors">**Mete Ismayilzada**, Antoine Bosselut.</span><br/>
 <span class="conference">EACL System Demonstrations Track, 2023 (Poster)</span><br/>
 [[paper](https://aclanthology.org/2023.eacl-demo.12)] [[code](https://github.com/epfl-nlp/kogito)] [[docs](https://kogito.readthedocs.io)]
@@ -62,13 +67,19 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ## <span class="section-bar"></span> Engineering Experience
 
-1. **Software/ML Engineer**. integrate.ai. Toronto, Canada. <span class="dates">2019-2021</span>
+1. **Software/ML Engineer**. integrate.ai. Toronto, Canada. <span class="dates">2019-2021.</span>
 2. **Co-founder/CTO**. Destin AI. Toronto, Canada. <span class="dates">2017-2019.</span>
 3. **Software Engineer**. Bluecat Networks. Toronto, Canada. <span class="dates">2017-2018.</span>
 4. **Software Engineer**. Cisco Systems. Ottawa, Canada. <span class="dates">2016-2017.</span>
 5. **Software Engineer Intern**. Freescale Semiconductors. Ottawa, Canada. <span class="dates">Summer 2015.</span>
 6. **Software Developer Intern**. TD Securities. Toronto, Canada. <span class="dates">Summer 2014.</span>
 7. **Software Developer Intern**. Azercell MMC. Baku, Azerbaijan. <span class="dates">Summer 2013.</span>
+
+---
+
+## <span class="section-bar"></span> Service
+
+1. **Reviewer**. EACL Student Research Workshop. <span class="dates">2024.</span>
 
 ---
 
