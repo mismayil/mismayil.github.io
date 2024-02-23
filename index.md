@@ -80,7 +80,8 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ## <span class="section-bar"></span> Service
 
-1. **Reviewer**. EACL Student Research Workshop. <span class="dates">2024.</span>
+1. **Volunteer**. Perspectives on AI Symposiums. IDIAP. <span class="dates">Feb 2024.</span>
+2. **Reviewer**. EACL Student Research Workshop. <span class="dates">Jan 2024.</span>
 
 ---
 
