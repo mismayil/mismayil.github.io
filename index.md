@@ -27,7 +27,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 2. **REFINER: Reasoning Feedback on Intermediate Representations**<br/>
 <span class="authors">Debjit Paul, **Mete Ismayilzada**, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings</span><br/>
-<span class="conference">Preprint 2023</span><br/>
+<span class="conference">EACL 2024</span><br/>
 [[paper](https://arxiv.org/abs/2304.01904)]
 
 3. **&delta;-CAUSAL: Exploring Defeasibility in Causal Reasoning**<br/>
@@ -60,8 +60,9 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ## <span class="section-bar"></span> TA Experience
 
-1. **Student Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2023.</span>
-2. **Student Teaching Assistant**. [Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2022/cs401/). EPFL. <span class="dates">Fall 2022</span>
+1. **Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2024.</span>
+2. **Student Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2023.</span>
+2. **Student Teaching Assistant**. [Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2022/cs401/). EPFL. <span class="dates">Fall 2022.</span>
 
 ---
 
