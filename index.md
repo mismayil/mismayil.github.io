@@ -58,7 +58,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ---
 
-## <span class="section-bar"></span> TA Experience
+## <span class="section-bar"></span> Teaching Experience
 
 1. **Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2024.</span>
 2. **Student Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2023.</span>
