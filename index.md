@@ -22,23 +22,23 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 ## <span class="section-bar"></span> Publications
 1. **DiffuCOMET: Contextual Commonsense Knowledge Diffusion**<br/>
 <span class="authors">Silin Gao, **Mete Ismayilzada**, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Antoine Bosselut</span><br/>
-<span class="conference">Preprint</span><br/>
+<span class="conference">ACL 2024</span><br/>
 [[paper](https://arxiv.org/abs/2402.17011)]
 
-2. **CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks**<br/>
-<span class="authors">**Mete Ismayilzada**, Debjit Paul, Syrielle Montariol, Mor Geva, Antoine Bosselut</span><br/>
-<span class="conference">EMNLP Main 2023 (Oral)</span><br/>
-[[paper](https://aclanthology.org/2023.emnlp-main.607)] [[website](https://mete.is/crow)] 
+2. **&delta;-CAUSAL: Exploring Defeasibility in Causal Reasoning**<br/>
+<span class="authors">Shaobo Cui, Lazar Milikic, Yiyang Feng, **Mete Ismayilzada**, Debjit Paul, Antoine Bosselut, Boi Faltings</span><br/>
+<span class="conference">ACL 2024 Findings</span><br/>
+[[paper](https://arxiv.org/abs/2401.03183)]
 
 3. **REFINER: Reasoning Feedback on Intermediate Representations**<br/>
 <span class="authors">Debjit Paul, **Mete Ismayilzada**, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings</span><br/>
 <span class="conference">EACL 2024</span><br/>
 [[paper](https://arxiv.org/abs/2304.01904)]
 
-4. **&delta;-CAUSAL: Exploring Defeasibility in Causal Reasoning**<br/>
-<span class="authors">Shaobo Cui, Lazar Milikic, Yiyang Feng, **Mete Ismayilzada**, Debjit Paul, Antoine Bosselut, Boi Faltings</span><br/>
-<span class="conference">Preprint 2023</span><br/>
-[[paper](https://arxiv.org/abs/2401.03183)]
+4. **CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks**<br/>
+<span class="authors">**Mete Ismayilzada**, Debjit Paul, Syrielle Montariol, Mor Geva, Antoine Bosselut</span><br/>
+<span class="conference">EMNLP 2023 (Oral)</span><br/>
+[[paper](https://aclanthology.org/2023.emnlp-main.607)] [[website](https://mete.is/crow)] 
 
 5. **kogito: A Commonsense Knowledge Inference Toolkit.**<br/>
 <span class="authors">**Mete Ismayilzada**, Antoine Bosselut.</span><br/>
