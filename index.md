@@ -105,7 +105,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 ---
 
 ## <span class="section-bar"></span> Hobbies
-In my free time, I like to [read](https://www.goodreads.com/user/show/34889251-mete-ismayil), [bike](https://www.strava.com/athletes/33241990), [play piano](https://youtube.com/playlist?list=PLWgqALhmmentLA30W40VUV6HXOHH0n6z-) and watch (usually long) [international art films](https://boxd.it/ggyee).
+In my free time, I like to [read](https://www.goodreads.com/user/show/34889251-mete-ismayil), [bike](https://www.strava.com/athletes/33241990), [play piano and dombra](https://youtube.com/playlist?list=PLWgqALhmmentLA30W40VUV6HXOHH0n6z-) and watch (usually long) [international art films](https://boxd.it/ggyee).
 
 ---
 
