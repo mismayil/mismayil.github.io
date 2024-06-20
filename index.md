@@ -35,12 +35,17 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 <span class="conference">EACL 2024</span><br/>
 [[paper](https://arxiv.org/abs/2304.01904)]
 
-4. **CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks**<br/>
+4. **Could ChatGPT be an Engineer? Evaluating Higher Education Vulnerability to AI Assistants**<br/>
+<span class="authors">Beatriz Borges, Negar Foroutan, Deniz Bayazit, Syrielle Montariol, Mohammadreza Banaei, Alireza Sakhaeirad, Philippe Servant, Anna Sotnikova, Tanya Nazaretsky, Seyed Parsa Neshaei, Jibril Frej, Angelika Romanou, Gail Weiss, Sepideh Mamooler, Zeming Chen, Simin Fan, Silin Gao, **Mete Ismayilzada**, Debjit Paul, Tanja Käser, Antoine Bosselut</span><br/>
+<span class="conference">AAAI 2024</span><br/>
+[[paper](https://openreview.net/pdf?id=2vo9fAgZw3)]
+
+5. **CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks**<br/>
 <span class="authors">**Mete Ismayilzada**, Debjit Paul, Syrielle Montariol, Mor Geva, Antoine Bosselut</span><br/>
 <span class="conference">EMNLP 2023 (Oral)</span><br/>
 [[paper](https://aclanthology.org/2023.emnlp-main.607)] [[website](https://mete.is/crow)] 
 
-5. **kogito: A Commonsense Knowledge Inference Toolkit.**<br/>
+6. **kogito: A Commonsense Knowledge Inference Toolkit.**<br/>
 <span class="authors">**Mete Ismayilzada**, Antoine Bosselut.</span><br/>
 <span class="conference">EACL System Demonstrations Track, 2023 (Poster)</span><br/>
 [[paper](https://aclanthology.org/2023.eacl-demo.12)] [[code](https://github.com/epfl-nlp/kogito)] [[docs](https://kogito.readthedocs.io)]
@@ -52,6 +57,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 1. **Ph.D in Computer Science**. EPFL. Lausanne, Switzerland. <span class="dates">2023-Present.</span>
 2. **Master's in Data Science**. EPFL. Lausanne, Switzerland. <span class="dates">2021-2023.</span>
 3. **Bachelor's in Computer Science**. University of Waterloo. Waterloo, Canada. <span class="dates">2012-2016.</span>
+4. **Bachelor's in Computer Science**. Baku State University. Baku, Azerbaijan. <span class="dates">2010-2012 (incomplete)</span>
 
 --- 
 
@@ -85,9 +91,10 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ## <span class="section-bar"></span> Service
 
-1. **Reviewer**. ACL ARR. <span class="dates">2024.</span>
-2. **Volunteer**. Perspectives on AI Symposiums. IDIAP. <span class="dates">Feb 2024.</span>
-2. **Reviewer**. EACL Student Research Workshop. <span class="dates">Jan 2024.</span>
+2. **Reviewer**. SEM. <span class="dates">Apr 2024.</span>
+2. **Reviewer**. ACL ARR. <span class="dates">Feb 2024.</span>
+3. **Volunteer**. Perspectives on AI Symposiums. IDIAP. <span class="dates">Feb 2024.</span>
+4. **Reviewer**. EACL Student Research Workshop. <span class="dates">Jan 2024.</span>
 
 ---
 

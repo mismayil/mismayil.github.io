@@ -7,9 +7,10 @@ Based on minimal design by [Ankit Sultana](https://github.com/ankitsultana)
 Install dependencies
 ```sh
 gem install bundler jekyll
-gem install
+bundle install
 ```
 
+Run local server
 ```sh
 bundle exec jekyll serve
 ```
