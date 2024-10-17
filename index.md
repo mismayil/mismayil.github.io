@@ -20,32 +20,37 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 --- 
 
 ## <span class="section-bar"></span> Publications
-1. **DiffuCOMET: Contextual Commonsense Knowledge Diffusion**<br/>
+1. **Evaluating Morphological Compositional Generalization in Large Language Models**<br/>
+<span class="authors">**Mete Ismayilzada**, Defne Circi, Jonne Sälevä, Hale Sirin, Abdullatif Köksal, Bhuwan Dhingra, Antoine Bosselut, Lonneke van der Plas, Duygu Ataman</span><br/>
+<span class="conference">ArXiv Preprint</span><br/>
+[[paper](https://arxiv.org/abs/2410.12656)]
+
+2. **DiffuCOMET: Contextual Commonsense Knowledge Diffusion**<br/>
 <span class="authors">Silin Gao, **Mete Ismayilzada**, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Antoine Bosselut</span><br/>
 <span class="conference">ACL 2024</span><br/>
-[[paper](https://arxiv.org/abs/2402.17011)]
+[[paper](https://aclanthology.org/2024.acl-long.264/)]
 
-2. **&delta;-CAUSAL: Exploring Defeasibility in Causal Reasoning**<br/>
+3. **&delta;-CAUSAL: Exploring Defeasibility in Causal Reasoning**<br/>
 <span class="authors">Shaobo Cui, Lazar Milikic, Yiyang Feng, **Mete Ismayilzada**, Debjit Paul, Antoine Bosselut, Boi Faltings</span><br/>
 <span class="conference">ACL 2024 Findings</span><br/>
-[[paper](https://arxiv.org/abs/2401.03183)]
+[[paper](https://aclanthology.org/2024.findings-acl.384/)]
 
-3. **REFINER: Reasoning Feedback on Intermediate Representations**<br/>
+4. **REFINER: Reasoning Feedback on Intermediate Representations**<br/>
 <span class="authors">Debjit Paul, **Mete Ismayilzada**, Maxime Peyrard, Beatriz Borges, Antoine Bosselut, Robert West, Boi Faltings</span><br/>
 <span class="conference">EACL 2024</span><br/>
-[[paper](https://arxiv.org/abs/2304.01904)]
+[[paper](https://aclanthology.org/2024.eacl-long.67/)]
 
-4. **Could ChatGPT be an Engineer? Evaluating Higher Education Vulnerability to AI Assistants**<br/>
+5. **Could ChatGPT be an Engineer? Evaluating Higher Education Vulnerability to AI Assistants**<br/>
 <span class="authors">Beatriz Borges, Negar Foroutan, Deniz Bayazit, Syrielle Montariol, Mohammadreza Banaei, Alireza Sakhaeirad, Philippe Servant, Anna Sotnikova, Tanya Nazaretsky, Seyed Parsa Neshaei, Jibril Frej, Angelika Romanou, Gail Weiss, Sepideh Mamooler, Zeming Chen, Simin Fan, Silin Gao, **Mete Ismayilzada**, Debjit Paul, Tanja Käser, Antoine Bosselut</span><br/>
 <span class="conference">AAAI 2024</span><br/>
 [[paper](https://openreview.net/pdf?id=2vo9fAgZw3)]
 
-5. **CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks**<br/>
+6. **CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks**<br/>
 <span class="authors">**Mete Ismayilzada**, Debjit Paul, Syrielle Montariol, Mor Geva, Antoine Bosselut</span><br/>
 <span class="conference">EMNLP 2023 (Oral)</span><br/>
 [[paper](https://aclanthology.org/2023.emnlp-main.607)] [[website](https://mete.is/crow)] 
 
-6. **kogito: A Commonsense Knowledge Inference Toolkit.**<br/>
+7. **kogito: A Commonsense Knowledge Inference Toolkit.**<br/>
 <span class="authors">**Mete Ismayilzada**, Antoine Bosselut.</span><br/>
 <span class="conference">EACL System Demonstrations Track, 2023 (Poster)</span><br/>
 [[paper](https://aclanthology.org/2023.eacl-demo.12)] [[code](https://github.com/epfl-nlp/kogito)] [[docs](https://kogito.readthedocs.io)]
@@ -73,7 +78,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 1. **Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2024.</span>
 2. **Student Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2023.</span>
-2. **Student Teaching Assistant**. [Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2022/cs401/). EPFL. <span class="dates">Fall 2022.</span>
+3. **Student Teaching Assistant**. [Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2022/cs401/). EPFL. <span class="dates">Fall 2022.</span>
 
 ---
 
@@ -91,7 +96,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ## <span class="section-bar"></span> Service
 
-2. **Reviewer**. SEM. <span class="dates">Apr 2024.</span>
+1. **Reviewer**. SEM. <span class="dates">Apr 2024.</span>
 2. **Reviewer**. ACL ARR. <span class="dates">Feb 2024.</span>
 3. **Volunteer**. Perspectives on AI Symposiums. IDIAP. <span class="dates">Feb 2024.</span>
 4. **Reviewer**. EACL Student Research Workshop. <span class="dates">Jan 2024.</span>
@@ -102,7 +107,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 1. **Parrot**. Educational toolkit for interaction with OpenAI models. [[code]](https://github.com/epfl-nlp/parrot)
 2. **Mini-Pytorch**. From scratch implementation of (mini) pytorch autograd and several core modules. [[code](https://github.com/mismayil/mini-pytorch)]
 3. **Words and Personalities**. Personality analysis based on quotes. [[demo](https://mismayil.github.io/words-personalities)] [[code](https://github.com/mismayil/words-personalities)]
-3. **Differentially Private Random Forest Classifier**. [[code](https://github.com/IBM/differential-privacy-library/releases/tag/0.5.0)]
+4. **Differentially Private Random Forest Classifier**. [[code](https://github.com/IBM/differential-privacy-library/releases/tag/0.5.0)]
 
 ---
 
