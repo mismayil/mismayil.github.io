@@ -5,9 +5,9 @@ layout: default
 
 <img class="profile-picture" src="profile-picture.jpeg">
 
-I am currently a **Ph.D. student** at [EPFL](https://epfl.ch) advised by prof.[Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP lab](https://nlp.epfl.ch) and a **Research Assistant** at [Idiap Research Institute](https://idiap.ch) supervised by prof.[Lonneke van der Plas](https://www.idiap.ch/~lvdplas/) at the [Computation, Cognition and Language](https://www.idiap.ch/~lvdplas/) group. 
+I am currently a **Ph.D. student** at [EPFL](https://epfl.ch) advised by prof.[Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP lab](https://nlp.epfl.ch) and a **Research Assistant** at [Idiap Research Institute](https://idiap.ch) supervised by prof.[Lonneke van der Plas](https://sites.google.com/site/lonnekenlp/) at the [Computation, Cognition and Language](https://www.idiap.ch/~lvdplas/) group. 
 
-Previously, I completed my MSc. in Data Science at EPFL where I did research on commonsense reasoning. In the past, I have been a software/ML engineer, co-founder/entrepreneur and have 5+ years of experience in areas ranging from semiconductors to AI. I am also a proud University of Waterloo alumnus where I finished my Bachelor's in Computer Science with distinction.
+Previously, I completed my MSc. in Data Science at EPFL where I did research on commonsense and causal reasoning. In the past, I have been a software/ML engineer, co-founder/entrepreneur and have 5+ years of experience in areas ranging from semiconductors to AI. I am also a proud University of Waterloo alumnus where I finished my Bachelor's in Computer Science with distinction.
 
 
 --- 
