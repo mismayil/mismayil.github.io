@@ -135,5 +135,6 @@ In my free time, I like to [read](https://www.goodreads.com/user/show/34889251-m
 
 ## <span class="section-bar"></span> Contact
 1. [mismayilza [at] gmail [dot] com](mailto:)
+1. [google scholar](https://scholar.google.com/citations?hl=en&user=l88cHEQAAAAJ)
 1. [github](https://github.com/mismayil)
 1. [linkedin](https://www.linkedin.com/in/mismayilzada)
