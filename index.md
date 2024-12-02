@@ -28,7 +28,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 1. **Creativity in AI: Progresses and Challenges**<br/>
     <span class="authors">**Mete Ismayilzada**, Debjit Paul, Antoine Bosselut, Lonneke van der Plas</span><br/>
     <span class="conference">Preprint</span><br/>
-    [[paper](https://arxiv.org/abs/2410.17218)] [[code]](https://github.com/mismayil/creativity-in-AI)
+    [[paper](https://arxiv.org/abs/2410.17218)] [[code]](https://github.com/mismayil/creativity-in-AI) [[media]](https://buildingcreativemachines.substack.com/p/unveiling-the-creativity-potential)
 
 1. **Evaluating Morphological Compositional Generalization in Large Language Models**<br/>
     <span class="authors">**Mete Ismayilzada**, Defne Circi\*, Jonne Sälevä\*, Hale Sirin, Abdullatif Köksal, Bhuwan Dhingra, Antoine Bosselut, Lonneke van der Plas, Duygu Ataman</span><br/>
