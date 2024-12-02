@@ -35,6 +35,16 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
     <span class="conference">Preprint</span><br/>
     [[paper](https://arxiv.org/abs/2410.12656)]
 
+1. **CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks**<br/>
+    <span class="authors">**Mete Ismayilzada**, Debjit Paul\*, Syrielle Montariol\*, Mor Geva, Antoine Bosselut</span><br/>
+    <span class="conference">EMNLP 2023 (Oral)</span><br/>
+    [[paper](https://aclanthology.org/2023.emnlp-main.607)] [[website](https://mete.is/crow)] 
+
+1. **kogito: A Commonsense Knowledge Inference Toolkit.**<br/>
+    <span class="authors">**Mete Ismayilzada**, Antoine Bosselut.</span><br/>
+    <span class="conference">EACL System Demonstrations Track, 2023 (Poster)</span><br/>
+    [[paper](https://aclanthology.org/2023.eacl-demo.12)] [[code](https://github.com/epfl-nlp/kogito)] [[docs](https://kogito.readthedocs.io)]
+
 1. **DiffuCOMET: Contextual Commonsense Knowledge Diffusion**<br/>
     <span class="authors">Silin Gao, **Mete Ismayilzada**, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Antoine Bosselut</span><br/>
     <span class="conference">ACL 2024</span><br/>
@@ -50,20 +60,10 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
     <span class="conference">EACL 2024</span><br/>
     [[paper](https://aclanthology.org/2024.eacl-long.67/)]
 
-1. **Could ChatGPT be an Engineer? Evaluating Higher Education Vulnerability to AI Assistants**<br/>
+1. **Could ChatGPT get an Engineering Degree? Evaluating Higher Education Vulnerability to AI Assistants**<br/>
     <span class="authors">Beatriz Borges, Negar Foroutan, Deniz Bayazit, Syrielle Montariol, Mohammadreza Banaei, [...], **Mete Ismayilzada**, Debjit Paul, Tanja Käser, Antoine Bosselut</span><br/>
-    <span class="conference">AI for Education: Bridging Innovation and Responsibility, AAAI 2024</span><br/>
-    [[paper](https://arxiv.org/abs/2408.11841)]
-
-1. **CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks**<br/>
-    <span class="authors">**Mete Ismayilzada**, Debjit Paul\*, Syrielle Montariol\*, Mor Geva, Antoine Bosselut</span><br/>
-    <span class="conference">EMNLP 2023 (Oral)</span><br/>
-    [[paper](https://aclanthology.org/2023.emnlp-main.607)] [[website](https://mete.is/crow)] 
-
-1. **kogito: A Commonsense Knowledge Inference Toolkit.**<br/>
-    <span class="authors">**Mete Ismayilzada**, Antoine Bosselut.</span><br/>
-    <span class="conference">EACL System Demonstrations Track, 2023 (Poster)</span><br/>
-    [[paper](https://aclanthology.org/2023.eacl-demo.12)] [[code](https://github.com/epfl-nlp/kogito)] [[docs](https://kogito.readthedocs.io)]
+    <span class="conference">PNAS 2024</span><br/>
+    [[paper](https://www.pnas.org/doi/10.1073/pnas.2414955121)]
 
 ---
 
@@ -72,7 +72,6 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 1. **Ph.D in Computer Science**. EPFL. Lausanne, Switzerland. <span class="dates">2023-Present.</span>
 1. **Master's in Data Science**. EPFL. Lausanne, Switzerland. <span class="dates">2021-2023.</span>
 1. **Bachelor's in Computer Science**. University of Waterloo. Waterloo, Canada. <span class="dates">2012-2016.</span>
-1. **Bachelor's in Computer Science**. Baku State University. Baku, Azerbaijan. <span class="dates">2010-2012 (incomplete)</span>
 
 --- 
 
@@ -106,10 +105,8 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ## <span class="section-bar"></span> Service
 
-1. **Reviewer**. SEM. <span class="dates">Apr 2024.</span>
-1. **Reviewer**. ACL ARR. <span class="dates">Feb 2024.</span>
+1. **Reviewer**. ACL ARR (Feb 2024, Oct 2024), SEM (Apr 2024), EACL (SRW Jan 2024).
 1. **Volunteer**. Perspectives on AI Symposiums. IDIAP. <span class="dates">Feb 2024.</span>
-1. **Reviewer**. EACL Student Research Workshop. <span class="dates">Jan 2024.</span>
 
 ---
 
@@ -122,7 +119,8 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ---
 
-## <span class="section-bar"></span> Blogposts
+## <span class="section-bar"></span> Misc
+1. Interview for Building Creative Machines. Substack. [link](https://buildingcreativemachines.substack.com/p/interview-mete-ismayilzada-unlocking)
 1. From Words to Vectors. Towards Data Science. Medium. [[link](https://medium.com/towards-data-science/from-words-to-vectors-e24f0977193e)]
 
 ---
