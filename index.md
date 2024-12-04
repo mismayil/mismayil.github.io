@@ -120,7 +120,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 ---
 
 ## <span class="section-bar"></span> Misc
-1. Interview for Building Creative Machines. Substack. [link](https://buildingcreativemachines.substack.com/p/interview-mete-ismayilzada-unlocking)
+1. Interview for Building Creative Machines. Substack. [[link]](https://buildingcreativemachines.substack.com/p/interview-mete-ismayilzada-unlocking)
 1. From Words to Vectors. Towards Data Science. Medium. [[link](https://medium.com/towards-data-science/from-words-to-vectors-e24f0977193e)]
 
 ---
