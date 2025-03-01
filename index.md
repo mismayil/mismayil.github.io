@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="profile-picture.jpeg">
 
-I am currently a **Ph.D. student** at [EPFL](https://epfl.ch) advised by prof.[Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP lab](https://nlp.epfl.ch) and a **Research Assistant** at [Idiap Research Institute](https://idiap.ch) supervised by prof.[Lonneke van der Plas](https://sites.google.com/site/lonnekenlp/) at the [Computation, Cognition and Language](https://www.idiap.ch/~lvdplas/) group. 
+I am currently a CS **Ph.D. student** at [EPFL](https://epfl.ch) advised by prof.[Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP lab](https://nlp.epfl.ch) and by prof.[Lonneke van der Plas](https://sites.google.com/site/lonnekenlp/) at the [Università della Svizzera italiana](https://www.usi.ch/en). I have also been a Research Assistant at Idiap Research Institute during my first year of PhD.
 
 Previously, I completed my MSc. in Data Science at EPFL where I did research on commonsense and causal reasoning. In the past, I have been a software/ML engineer, co-founder/entrepreneur and have 5+ years of experience in areas ranging from semiconductors to AI. I am also a proud University of Waterloo alumnus where I finished my Bachelor's in Computer Science with distinction.
 
@@ -77,7 +77,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ## <span class="section-bar"></span> Research Experience
 
-1. **Research Assistant**. IDIAP. Martigny, Switzerland. <span class="dates">2023-Present.</span>
+1. **Research Assistant**. Idiap Research Institute. Martigny, Switzerland. <span class="dates">2023-2025.</span>
 1. **Research Assistant**. [Artificial Intelligence Lab](https://lia.epfl.ch/). EPFL. <span class="dates">Fall 2022.</span>
 1. **Research Intern**. Sony Inc. Tokyo, Japan. <span class="dates">Summer 2022.</span>
 
@@ -105,7 +105,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ## <span class="section-bar"></span> Service
 
-1. **Reviewer**. ACL ARR (Feb 2024, Oct 2024), SEM (Apr 2024), EACL (SRW Jan 2024).
+1. **Reviewer**. ACL ARR, SEM (Apr 2024), EACL (SRW Jan 2024).
 1. **Volunteer**. Perspectives on AI Symposiums. IDIAP. <span class="dates">Feb 2024.</span>
 
 ---
