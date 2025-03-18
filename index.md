@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="profile-picture.jpeg">
 
-I am currently a CS **Ph.D. student** at [EPFL](https://epfl.ch) advised by prof.[Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP lab](https://nlp.epfl.ch) and by prof.[Lonneke van der Plas](https://sites.google.com/site/lonnekenlp/) at the [Università della Svizzera italiana](https://www.usi.ch/en). I have also been a Research Assistant at Idiap Research Institute during my first year of PhD.
+I am currently a CS **Ph.D. student** at [EPFL](https://epfl.ch) advised by prof.[Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP lab](https://nlp.epfl.ch) and a Visiting Research student at the [Università della Svizzera italiana](https://www.usi.ch/en) supervised by prof.[Lonneke van der Plas](https://sites.google.com/site/lonnekenlp/). I have also been a Research Assistant at Idiap Research Institute during my first two years of PhD.
 
 Previously, I completed my MSc. in Data Science at EPFL where I did research on commonsense and causal reasoning. In the past, I have been a software/ML engineer, co-founder/entrepreneur and have 5+ years of experience in areas ranging from semiconductors to AI. I am also a proud University of Waterloo alumnus where I finished my Bachelor's in Computer Science with distinction.
 
@@ -31,8 +31,8 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
     [[paper](https://arxiv.org/abs/2410.17218)] [[code]](https://github.com/mismayil/creativity-in-AI) [[media]](https://buildingcreativemachines.substack.com/p/unveiling-the-creativity-potential)
 
 1. **Evaluating Morphological Compositional Generalization in Large Language Models**<br/>
-    <span class="authors">**Mete Ismayilzada**, Defne Circi\*, Jonne Sälevä\*, Hale Sirin, Abdullatif Köksal, Bhuwan Dhingra, Antoine Bosselut, Lonneke van der Plas, Duygu Ataman</span><br/>
-    <span class="conference">Preprint</span><br/>
+    <span class="authors">**Mete Ismayilzada**, Defne Circi\*, Jonne Sälevä\*, Hale Sirin, Abdullatif Köksal, Bhuwan Dhingra, Antoine Bosselut, Duygu Ataman, Lonneke van der Plas</span><br/>
+    <span class="conference">NAACL 2025</span><br/>
     [[paper](https://arxiv.org/abs/2410.12656)]
 
 1. **CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks**<br/>
@@ -77,6 +77,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ## <span class="section-bar"></span> Research Experience
 
+1. **Visiting Research Student**. Università della Svizzera italiana. Lugano, Switzerland. <span class="dates">2025-Present.</span>
 1. **Research Assistant**. Idiap Research Institute. Martigny, Switzerland. <span class="dates">2023-2025.</span>
 1. **Research Assistant**. [Artificial Intelligence Lab](https://lia.epfl.ch/). EPFL. <span class="dates">Fall 2022.</span>
 1. **Research Intern**. Sony Inc. Tokyo, Japan. <span class="dates">Summer 2022.</span>
@@ -85,7 +86,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ## <span class="section-bar"></span> Teaching Experience
 
-1. **Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2024.</span>
+1. **Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2024, 2025.</span>
 1. **Student Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2023.</span>
 1. **Student Teaching Assistant**. [Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2022/cs401/). EPFL. <span class="dates">Fall 2022.</span>
 
