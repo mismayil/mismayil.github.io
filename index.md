@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="profile-picture.jpeg">
 
-I am currently a CS **Ph.D. student** at [EPFL](https://epfl.ch) advised by prof.[Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP lab](https://nlp.epfl.ch) and a Visiting Research student at the [Università della Svizzera italiana](https://www.usi.ch/en) supervised by prof.[Lonneke van der Plas](https://sites.google.com/site/lonnekenlp/). I have also been a Research Assistant at Idiap Research Institute during my first two years of PhD.
+I am currently a CS **Ph.D. student** at [EPFL](https://epfl.ch) advised by prof.[Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP lab](https://nlp.epfl.ch) and a Visiting Researcher at the [Università della Svizzera italiana](https://www.usi.ch/en) supervised by prof.[Lonneke van der Plas](https://sites.google.com/site/lonnekenlp/). I have also been a Research Assistant at Idiap Research Institute during my first two years of PhD.
 
 Previously, I completed my MSc. in Data Science at EPFL where I did research on commonsense and causal reasoning. In the past, I have been a software/ML engineer, co-founder/entrepreneur and have 5+ years of experience in areas ranging from semiconductors to AI. I am also a proud University of Waterloo alumnus where I finished my Bachelor's in Computer Science with distinction.
 
