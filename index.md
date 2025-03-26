@@ -14,7 +14,7 @@ Previously, I completed my MSc. in Data Science at EPFL where I did research on 
 
 ## <span class="section-bar"></span> Research Interests
 
-My interests broadly lie within the nature of **robust artificial intelligence, language, creativity and mind**. Currently, my research focuses on understanding, evaluating and improving creativity of AI systems. I am particularly interested in exploring transformational (inventive) creativity in current AI architectures for scientific discoveries. Additionally, I am investigating core abilities essential for creativity in AI, including reasoning, generalization, compositionality, abstraction, and analogy-making. 
+My interests broadly lie within the nature of **robust artificial intelligence, language, creativity and mind**. Currently, my research focuses on understanding, evaluating and improving creativity of AI systems. I am particularly interested in exploring **transformational (inventive) creativity** in current AI architectures for **scientific discoveries**. Additionally, I am investigating core abilities essential for creativity in AI, including reasoning, generalization, compositionality, abstraction, and analogy-making. 
 
 
 --- 
