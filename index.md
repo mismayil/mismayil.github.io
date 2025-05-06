@@ -33,7 +33,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 1. **Evaluating Morphological Compositional Generalization in Large Language Models**<br/>
     <span class="authors">**Mete Ismayilzada**, Defne Circi\*, Jonne Sälevä\*, Hale Sirin, Abdullatif Köksal, Bhuwan Dhingra, Antoine Bosselut, Duygu Ataman, Lonneke van der Plas</span><br/>
     <span class="conference">NAACL 2025</span><br/>
-    [[paper](https://arxiv.org/abs/2410.12656)]
+    [[paper](https://aclanthology.org/2025.naacl-long.59/)] [[code](https://github.com/mismayil/morph-gen)]
 
 1. **CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks**<br/>
     <span class="authors">**Mete Ismayilzada**, Debjit Paul\*, Syrielle Montariol\*, Mor Geva, Antoine Bosselut</span><br/>
