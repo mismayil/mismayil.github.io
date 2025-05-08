@@ -20,15 +20,15 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 --- 
 
 ## <span class="section-bar"></span> Publications
-1. **Evaluating Creative Short Story Generation in Humans and Large Language Models**<br/>
-    <span class="authors">**Mete Ismayilzada**, Claire Stevenson, Lonneke van der Plas</span><br/>
-    <span class="conference">ICCC 2025</span><br/>
-    [[paper](https://arxiv.org/abs/2411.02316)] [[code]](https://github.com/mismayil/creative-story-gen)
-
 1. **Creativity in AI: Progresses and Challenges**<br/>
     <span class="authors">**Mete Ismayilzada**, Debjit Paul, Antoine Bosselut, Lonneke van der Plas</span><br/>
     <span class="conference">Preprint</span><br/>
     [[paper](https://arxiv.org/abs/2410.17218)] [[code]](https://github.com/mismayil/creativity-in-AI) [[media]](https://buildingcreativemachines.substack.com/p/unveiling-the-creativity-potential)
+
+1. **Evaluating Creative Short Story Generation in Humans and Large Language Models**<br/>
+    <span class="authors">**Mete Ismayilzada**, Claire Stevenson, Lonneke van der Plas</span><br/>
+    <span class="conference">ICCC 2025</span><br/>
+    [[paper](https://arxiv.org/abs/2411.02316)] [[code]](https://github.com/mismayil/creative-story-gen)
 
 1. **Evaluating Morphological Compositional Generalization in Large Language Models**<br/>
     <span class="authors">**Mete Ismayilzada**, Defne Circi\*, Jonne Sälevä\*, Hale Sirin, Abdullatif Köksal, Bhuwan Dhingra, Antoine Bosselut, Duygu Ataman, Lonneke van der Plas</span><br/>
