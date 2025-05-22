@@ -20,6 +20,11 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 --- 
 
 ## <span class="section-bar"></span> Publications
+1. **Creative Preference Optimization**<br/>
+    <span class="authors">**Mete Ismayilzada**, Antonio Laverghetta Jr., Simone A. Luchini, Reet Patel, Antoine Bosselut, Lonneke van der Plas, Roger Beaty</span><br/>
+    <span class="conference">Preprint</span><br/>
+    [[paper](https://arxiv.org/abs/2505.14442)]
+
 1. **Creativity in AI: Progresses and Challenges**<br/>
     <span class="authors">**Mete Ismayilzada**, Debjit Paul, Antoine Bosselut, Lonneke van der Plas</span><br/>
     <span class="conference">Preprint</span><br/>
