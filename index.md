@@ -22,18 +22,18 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 ## <span class="section-bar"></span> Publications
 1. **Creative Preference Optimization**<br/>
     <span class="authors">**Mete Ismayilzada**, Antonio Laverghetta Jr., Simone A. Luchini, Reet Patel, Antoine Bosselut, Lonneke van der Plas, Roger Beaty</span><br/>
-    <span class="conference">Preprint</span><br/>
+    <span class="conference">EMNLP 2025 (Findings)</span><br/>
     [[paper](https://arxiv.org/abs/2505.14442)]
 
 1. **Creativity in AI: Progresses and Challenges**<br/>
     <span class="authors">**Mete Ismayilzada**, Debjit Paul, Antoine Bosselut, Lonneke van der Plas</span><br/>
     <span class="conference">Preprint</span><br/>
-    [[paper](https://arxiv.org/abs/2410.17218)] [[code]](https://github.com/mismayil/creativity-in-AI) [[media]](https://buildingcreativemachines.substack.com/p/unveiling-the-creativity-potential)
+    [[paper](https://arxiv.org/abs/2410.17218)] [[code](https://github.com/mismayil/creativity-in-AI)] [[media](https://buildingcreativemachines.substack.com/p/unveiling-the-creativity-potential)]
 
 1. **Evaluating Creative Short Story Generation in Humans and Large Language Models**<br/>
     <span class="authors">**Mete Ismayilzada**, Claire Stevenson, Lonneke van der Plas</span><br/>
-    <span class="conference">ICCC 2025</span><br/>
-    [[paper](https://arxiv.org/abs/2411.02316)] [[code]](https://github.com/mismayil/creative-story-gen)
+    <span class="conference">ICCC 2025 (also presented at SfNC 2025)</span><br/>
+    [[paper](https://arxiv.org/abs/2411.02316)] [[code](https://github.com/mismayil/creative-story-gen)]
 
 1. **Evaluating Morphological Compositional Generalization in Large Language Models**<br/>
     <span class="authors">**Mete Ismayilzada**, Defne Circi\*, Jonne Sälevä\*, Hale Sirin, Abdullatif Köksal, Bhuwan Dhingra, Antoine Bosselut, Duygu Ataman, Lonneke van der Plas</span><br/>
@@ -47,7 +47,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 1. **kogito: A Commonsense Knowledge Inference Toolkit.**<br/>
     <span class="authors">**Mete Ismayilzada**, Antoine Bosselut.</span><br/>
-    <span class="conference">EACL System Demonstrations Track, 2023 (Poster)</span><br/>
+    <span class="conference">EACL System Demonstrations Track, 2023</span><br/>
     [[paper](https://aclanthology.org/2023.eacl-demo.12)] [[code](https://github.com/epfl-nlp/kogito)] [[docs](https://kogito.readthedocs.io)]
 
 1. **DiffuCOMET: Contextual Commonsense Knowledge Diffusion**<br/>
@@ -57,7 +57,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 1. **Exploring Defeasibility in Causal Reasoning**<br/>
     <span class="authors">Shaobo Cui, Lazar Milikic, Yiyang Feng, **Mete Ismayilzada**, Debjit Paul, Antoine Bosselut, Boi Faltings</span><br/>
-    <span class="conference">ACL 2024 Findings</span><br/>
+    <span class="conference">ACL 2024 (Findings)</span><br/>
     [[paper](https://aclanthology.org/2024.findings-acl.384/)]
 
 1. **REFINER: Reasoning Feedback on Intermediate Representations**<br/>
@@ -117,8 +117,8 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 ---
 
 ## <span class="section-bar"></span> Projects
-1. **Parrot**. Educational toolkit for interaction with OpenAI models. [[code]](https://github.com/epfl-nlp/parrot)
-1. **kogito**. A Python Commonsense Knowledge Inference Toolkit. [[docs]](https://kogito.readthedocs.io/en/latest/) [[code]](https://github.com/epfl-nlp/kogito)
+1. **Parrot**. Educational toolkit for interaction with OpenAI models. [[code](https://github.com/epfl-nlp/parrot)]
+1. **kogito**. A Python Commonsense Knowledge Inference Toolkit. [[docs](https://kogito.readthedocs.io/en/latest/)] [[code](https://github.com/epfl-nlp/kogito)]
 1. **mini-pytorch**. From scratch implementation of (mini) pytorch autograd and several core modules. [[code](https://github.com/mismayil/mini-pytorch)]
 1. **Words and Personalities**. Personality analysis based on quotes. [[demo](https://mismayil.github.io/words-personalities)] [[code](https://github.com/mismayil/words-personalities)]
 1. **Differentially Private Random Forest Classifier**. [[code](https://github.com/IBM/differential-privacy-library/releases/tag/0.5.0)]
@@ -126,7 +126,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 ---
 
 ## <span class="section-bar"></span> Misc
-1. Interview for Building Creative Machines. Substack. [[link]](https://buildingcreativemachines.substack.com/p/interview-mete-ismayilzada-unlocking)
+1. Interview for Building Creative Machines. Substack. [[link](https://buildingcreativemachines.substack.com/p/interview-mete-ismayilzada-unlocking)]
 1. From Words to Vectors. Towards Data Science. Medium. [[link](https://medium.com/towards-data-science/from-words-to-vectors-e24f0977193e)]
 
 ---
