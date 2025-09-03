@@ -19,16 +19,22 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 --- 
 
+## <span class="section-bar"></span> Preprints
+1. **Apertus: Democratizing Open and Compliant LLMs for Global Language Environments**<br/>
+    <span class="authors">Apertus Team (*core contributor)</span><br/>
+    <span class="conference">2025</span><br/>
+    [[paper](https://github.com/swiss-ai/apertus-tech-report/blob/main/Apertus_Tech_Report.pdf)] [[code](https://github.com/swiss-ai)] [[huggingface](https://huggingface.co/swiss-ai)]
+
+1. **Creativity in AI: Progresses and Challenges**<br/>
+    <span class="authors">**Mete Ismayilzada**, Debjit Paul, Antoine Bosselut, Lonneke van der Plas</span><br/>
+    <span class="conference">2024</span><br/>
+    [[paper](https://arxiv.org/abs/2410.17218)] [[code](https://github.com/mismayil/creativity-in-AI)] [[media](https://buildingcreativemachines.substack.com/p/unveiling-the-creativity-potential)]
+
 ## <span class="section-bar"></span> Publications
 1. **Creative Preference Optimization**<br/>
     <span class="authors">**Mete Ismayilzada**, Antonio Laverghetta Jr., Simone A. Luchini, Reet Patel, Antoine Bosselut, Lonneke van der Plas, Roger Beaty</span><br/>
     <span class="conference">EMNLP 2025 (Findings)</span><br/>
     [[paper](https://arxiv.org/abs/2505.14442)]
-
-1. **Creativity in AI: Progresses and Challenges**<br/>
-    <span class="authors">**Mete Ismayilzada**, Debjit Paul, Antoine Bosselut, Lonneke van der Plas</span><br/>
-    <span class="conference">Preprint</span><br/>
-    [[paper](https://arxiv.org/abs/2410.17218)] [[code](https://github.com/mismayil/creativity-in-AI)] [[media](https://buildingcreativemachines.substack.com/p/unveiling-the-creativity-potential)]
 
 1. **Evaluating Creative Short Story Generation in Humans and Large Language Models**<br/>
     <span class="authors">**Mete Ismayilzada**, Claire Stevenson, Lonneke van der Plas</span><br/>
