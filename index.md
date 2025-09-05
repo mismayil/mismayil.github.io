@@ -21,7 +21,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ## <span class="section-bar"></span> Preprints
 1. **Apertus: Democratizing Open and Compliant LLMs for Global Language Environments**<br/>
-    <span class="authors">Apertus Team (*core contributor)</span><br/>
+    <span class="authors">Apertus Team (*core contributor, Post-training & Evaluations)</span><br/>
     <span class="conference">2025</span><br/>
     [[paper](https://github.com/swiss-ai/apertus-tech-report/blob/main/Apertus_Tech_Report.pdf)] [[code](https://github.com/swiss-ai)] [[huggingface](https://huggingface.co/swiss-ai)]
 
