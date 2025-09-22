@@ -23,7 +23,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 1. **Apertus: Democratizing Open and Compliant LLMs for Global Language Environments**<br/>
     <span class="authors">Apertus Team (*core contributor, Post-training & Evaluations)</span><br/>
     <span class="conference">2025</span><br/>
-    [[paper](https://github.com/swiss-ai/apertus-tech-report/blob/main/Apertus_Tech_Report.pdf)] [[code](https://github.com/swiss-ai)] [[huggingface](https://huggingface.co/swiss-ai)]
+    [[paper](https://arxiv.org/abs/2509.14233)] [[code](https://github.com/swiss-ai)] [[huggingface](https://huggingface.co/swiss-ai)]
 
 1. **Creativity in AI: Progresses and Challenges**<br/>
     <span class="authors">**Mete Ismayilzada**, Debjit Paul, Antoine Bosselut, Lonneke van der Plas</span><br/>
@@ -32,9 +32,9 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ## <span class="section-bar"></span> Publications
 1. **Creative Preference Optimization**<br/>
-    <span class="authors">**Mete Ismayilzada**, Antonio Laverghetta Jr., Simone A. Luchini, Reet Patel, Antoine Bosselut, Lonneke van der Plas, Roger Beaty</span><br/>
+    <span class="authors">**Mete Ismayilzada**, Antonio Laverghetta Jr., Simone A. Luchini, Reet Patel, Antoine Bosselut, Lonneke van der Plas*, Roger E. Beaty*</span><br/>
     <span class="conference">EMNLP 2025 (Findings)</span><br/>
-    [[paper](https://arxiv.org/abs/2505.14442)]
+    [[project](https://www.mete.is/creative-preference-optimization/)] [[paper](https://arxiv.org/abs/2505.14442)] [[code](https://github.com/mismayil/creative-preference-optimization)] [[huggingface](https://huggingface.co/collections/CNCL-Penn-State/crpo-67d0b11ff358430823dbb3df)]
 
 1. **Evaluating Creative Short Story Generation in Humans and Large Language Models**<br/>
     <span class="authors">**Mete Ismayilzada**, Claire Stevenson, Lonneke van der Plas</span><br/>
@@ -97,6 +97,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ## <span class="section-bar"></span> Teaching Experience
 
+1. **Teaching Assistant**. [Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2025/cs401/). EPFL. <span class="dates">Fall 2025.</span>
 1. **Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2024, 2025.</span>
 1. **Student Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2023.</span>
 1. **Student Teaching Assistant**. [Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2022/cs401/). EPFL. <span class="dates">Fall 2022.</span>
