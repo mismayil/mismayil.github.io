@@ -34,7 +34,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 1. **Creative Preference Optimization**<br/>
     <span class="authors">**Mete Ismayilzada**, Antonio Laverghetta Jr., Simone A. Luchini, Reet Patel, Antoine Bosselut, Lonneke van der Plas\*, Roger E. Beaty\*</span><br/>
     <span class="conference">EMNLP 2025 (Findings)</span><br/>
-    [[project](https://www.mete.is/creative-preference-optimization/)] [[paper](https://arxiv.org/abs/2505.14442)] [[code](https://github.com/mismayil/creative-preference-optimization)] [[huggingface](https://huggingface.co/collections/CNCL-Penn-State/crpo-67d0b11ff358430823dbb3df)]
+    [[project](https://www.mete.is/creative-preference-optimization/)] [[paper](https://aclanthology.org/2025.findings-emnlp.509/)] [[code](https://github.com/mismayil/creative-preference-optimization)] [[huggingface](https://huggingface.co/collections/CNCL-Penn-State/crpo-67d0b11ff358430823dbb3df)]
 
 1. **Evaluating Creative Short Story Generation in Humans and Large Language Models**<br/>
     <span class="authors">**Mete Ismayilzada**, Claire Stevenson, Lonneke van der Plas</span><br/>
@@ -97,11 +97,9 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ## <span class="section-bar"></span> Teaching Experience
 
-1. **Teaching Assistant**. [Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2025/cs401/). EPFL. <span class="dates">Fall 2025.</span>
+1. **Teaching Assistant**. [Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2025/cs401/). EPFL. <span class="dates">Fall 2022, 2025.</span>
 1. **Teaching Assistant**. [Distributed Information Systems](https://edu.epfl.ch/coursebook/en/distributed-information-systems-CS-423). EPFL. <span class="dates">Fall 2024.</span>
-1. **Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2024, 2025.</span>
-1. **Student Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2023.</span>
-1. **Student Teaching Assistant**. [Applied Data Analysis](https://dlab.epfl.ch/teaching/fall2022/cs401/). EPFL. <span class="dates">Fall 2022.</span>
+1. **Teaching Assistant**. [Modern NLP](https://nlp.epfl.ch/cs-552-modern-nlp/). EPFL. <span class="dates">Spring 2023, 2024, 2025.</span>
 
 ---
 
