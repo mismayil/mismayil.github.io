@@ -14,7 +14,7 @@ Previously, I completed my MSc. in Data Science at EPFL where I did research on 
 
 ## <span class="section-bar"></span> Research Interests
 
-My interests broadly lie within the nature of **robust artificial intelligence, language, creativity and mind**. Currently, my research focuses on understanding, evaluating and improving creativity of AI systems. I am particularly interested in exploring **transformational (inventive) creativity** in current AI architectures for **scientific discoveries**. Additionally, I am investigating core abilities essential for creativity in AI, including reasoning, generalization, compositionality, abstraction, and analogy-making. 
+My interests broadly lie within the nature of **robust artificial intelligence, language, creativity and mind**. Currently, my research focuses on understanding, evaluating and improving creativity of AI systems. I am particularly interested in exploring **transformational (inventive) creativity** in current AI architectures for **scientific discoveries**. Additionally, I am interested in investigating core abilities essential for creativity in AI, including reasoning, generalization, compositionality, abstraction, and analogy-making. 
 
 
 --- 
@@ -119,6 +119,13 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 1. **Reviewer**. ACL ARR, SEM (Apr 2024), EACL (SRW Jan 2024).
 1. **Volunteer**. Perspectives on AI Symposiums. IDIAP. <span class="dates">Feb 2024.</span>
+
+---
+
+## <span class="section-bar"></span> Awards
+1. **Undergraduate Scholarship**. Full funding for undergraduate studies at the University of Waterloo. Government of Azerbaijan. <span class="dates">2012-2016.</span>
+1. **Certificate of Distinction**. Euclid Mathematics Contest. University of Waterloo. <span class="dates">2012.</span>
+1. **Presidential Scholarship**. Awarded to top students entering university studies. Government of Azerbaijan. <span class="dates">2010.</span>
 
 ---
 
