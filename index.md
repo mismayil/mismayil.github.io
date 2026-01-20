@@ -123,7 +123,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 ---
 
 ## <span class="section-bar"></span> Awards
-1. **Swiss AI Initiative PhD Fellowship**. Awarded for contributions to the development of Apertus models. Swiss AI Initiative. <span class="dates">2025.</span>.
+1. **Swiss AI Initiative PhD Fellowship**. Awarded for contributions to the development of Apertus models. Swiss AI Initiative. <span class="dates">2025.</span>
 1. **Undergraduate Scholarship**. Full funding for undergraduate studies at the University of Waterloo. Government of Azerbaijan. <span class="dates">2012-2016.</span>
 1. **Certificate of Distinction**. Euclid Mathematics Contest. University of Waterloo. <span class="dates">2012.</span>
 1. **Presidential Scholarship**. Awarded to top students entering university studies. Government of Azerbaijan. <span class="dates">2010.</span>
@@ -140,6 +140,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 ---
 
 ## <span class="section-bar"></span> Misc
+1. Interview for Swiss Info about Apertus. SwissInfo. [[link](https://www.swissinfo.ch/eng/swiss-ai/fact-and-fiction-about-the-swiss-ai-model-apertus/90110034)]
 1. Interview for Building Creative Machines. Substack. [[link](https://buildingcreativemachines.substack.com/p/interview-mete-ismayilzada-unlocking)]
 1. From Words to Vectors. Towards Data Science. Medium. [[link](https://medium.com/towards-data-science/from-words-to-vectors-e24f0977193e)]
 
