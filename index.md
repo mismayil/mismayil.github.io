@@ -123,6 +123,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 ---
 
 ## <span class="section-bar"></span> Awards
+1. **Outstanding Reviewer**. ACL ARR. <span class="dates">Mar 2026.</span>
 1. **Swiss AI Initiative PhD Fellowship**. Awarded for contributions to the development of Apertus models. Swiss AI Initiative. <span class="dates">2025.</span>
 1. **Undergraduate Scholarship**. Full funding for undergraduate studies at the University of Waterloo. Government of Azerbaijan. <span class="dates">2012-2016.</span>
 1. **Certificate of Distinction**. Euclid Mathematics Contest. University of Waterloo. <span class="dates">2012.</span>
