@@ -22,12 +22,12 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 ## <span class="section-bar"></span> Preprints
 
 1. **Large Language Models Align with the Human Brain during Creative Thinking**<br/>
-    <span class="authors">**Mete Ismayilzada**, Simone A. Luchini, Abdulkadir Gokce, Badr AlKhamissi, Antoine Bosselut, Antonio Laverghetta Jr., Lonneke van der Plas*, Roger E. Beaty*</span><br/>
+    <span class="authors">**Mete Ismayilzada**, Simone A. Luchini, Abdulkadir Gokce, Badr AlKhamissi, Antoine Bosselut, Antonio Laverghetta Jr., Lonneke van der Plas\*, Roger E. Beaty\*</span><br/>
     <span class="conference">2026</span><br/>
     [[paper](https://arxiv.org/abs/2604.03480)]
 
 1. **CresOWLve: Benchmarking Creative Problem-Solving Over Real-World Knowledge**<br/>
-    <span class="authors">**Mete Ismayilzada**, Renqing Cuomao*, Daniil Yurshevich*, Anna Sotnikova, Lonneke van der Plas, Antoine Bosselut</span><br/>
+    <span class="authors">**Mete Ismayilzada**, Renqing Cuomao\*, Daniil Yurshevich\*, Anna Sotnikova, Lonneke van der Plas, Antoine Bosselut</span><br/>
     <span class="conference">2026</span><br/>
     [[paper](https://arxiv.org/abs/2604.03374)] [[benchmark](https://huggingface.co/datasets/mismayil/cresowlve)]
 
@@ -40,17 +40,17 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 1. **Apertus: Democratizing Open and Compliant LLMs for Global Language Environments**<br/>
     <span class="authors">Apertus Team (*core contributor, Post-training & Evaluations)</span><br/>
     <span class="conference">ACL 2026</span><br/>
-    [[paper](https://arxiv.org/abs/2509.14233)] [[code](https://github.com/swiss-ai)] [[huggingface](https://huggingface.co/swiss-ai)]
+    [[paper](https://arxiv.org/abs/2509.14233)] [[code](https://github.com/swiss-ai)] [[models & data](https://huggingface.co/swiss-ai)]
 
 1. **Creative Preference Optimization**<br/>
     <span class="authors">**Mete Ismayilzada**, Antonio Laverghetta Jr., Simone A. Luchini, Reet Patel, Antoine Bosselut, Lonneke van der Plas\*, Roger E. Beaty\*</span><br/>
     <span class="conference">EMNLP 2025 (Findings)</span><br/>
-    [[project](https://www.mete.is/creative-preference-optimization/)] [[paper](https://aclanthology.org/2025.findings-emnlp.509/)] [[code](https://github.com/mismayil/creative-preference-optimization)] [[huggingface](https://huggingface.co/collections/CNCL-Penn-State/crpo-67d0b11ff358430823dbb3df)]
+    [[project](https://www.mete.is/creative-preference-optimization/)] [[paper](https://aclanthology.org/2025.findings-emnlp.509/)] [[code](https://github.com/mismayil/creative-preference-optimization)] [[models & data](https://huggingface.co/collections/CNCL-Penn-State/crpo-67d0b11ff358430823dbb3df)]
 
 1. **Evaluating Creative Short Story Generation in Humans and Large Language Models**<br/>
     <span class="authors">**Mete Ismayilzada**, Claire Stevenson, Lonneke van der Plas</span><br/>
     <span class="conference">ICCC 2025 (also presented at SfNC 2025)</span><br/>
-    [[paper](https://arxiv.org/abs/2411.02316)] [[code](https://github.com/mismayil/creative-story-gen)]
+    [[paper](https://arxiv.org/abs/2411.02316)] [[dataset](https://huggingface.co/datasets/mismayil/creative_story_generation_dataset)] [[code](https://github.com/mismayil/creative-story-gen)]
 
 1. **Evaluating Morphological Compositional Generalization in Large Language Models**<br/>
     <span class="authors">**Mete Ismayilzada**, Defne Circi\*, Jonne Sälevä\*, Hale Sirin, Abdullatif Köksal, Bhuwan Dhingra, Antoine Bosselut, Duygu Ataman, Lonneke van der Plas</span><br/>
