@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="profile-picture.jpeg">
 
-I am a CS **Ph.D. student** at [EPFL](https://epfl.ch) advised by prof.[Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP lab](https://nlp.epfl.ch) and a Visiting Researcher at the [Università della Svizzera italiana](https://usi-nlp.github.io) supervised by prof.[Lonneke van der Plas](https://sites.google.com/site/lonnekenlp/). Currently, I am doing a *Research Intership* at Microsoft Research working with Ryota Tomioka on using LLMs for accelerating scientific discoveries.
+I am a CS **Ph.D. student** at [EPFL](https://epfl.ch) advised by prof.[Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP lab](https://nlp.epfl.ch) and a Visiting Researcher at the [Università della Svizzera italiana](https://usi-nlp.github.io) supervised by prof.[Lonneke van der Plas](https://sites.google.com/site/lonnekenlp/). Currently, I am doing a **Research Intership** at Microsoft Research working with Ryota Tomioka on using LLMs for accelerating scientific discoveries.
 
 Previously, I completed my MSc. in Data Science at EPFL where I did research on commonsense and causal reasoning. In the past, I have been a software/ML engineer, co-founder/entrepreneur and have 5+ years of experience in areas ranging from semiconductors to AI. I am also a proud University of Waterloo alumnus where I finished my Bachelor's in Computer Science with distinction.
 
@@ -20,10 +20,16 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 --- 
 
 ## <span class="section-bar"></span> Preprints
-1. **Apertus: Democratizing Open and Compliant LLMs for Global Language Environments**<br/>
-    <span class="authors">Apertus Team (*core contributor, Post-training & Evaluations)</span><br/>
-    <span class="conference">2025</span><br/>
-    [[paper](https://arxiv.org/abs/2509.14233)] [[code](https://github.com/swiss-ai)] [[huggingface](https://huggingface.co/swiss-ai)]
+
+1. **Large Language Models Align with the Human Brain during Creative Thinking**<br/>
+    <span class="authors">**Mete Ismayilzada**, Simone A. Luchini, Abdulkadir Gokce, Badr AlKhamissi, Antoine Bosselut, Antonio Laverghetta Jr., Lonneke van der Plas*, Roger E. Beaty*</span><br/>
+    <span class="conference">2026</span><br/>
+    [[paper](https://arxiv.org/abs/2604.03480)]
+
+1. **CresOWLve: Benchmarking Creative Problem-Solving Over Real-World Knowledge**<br/>
+    <span class="authors">**Mete Ismayilzada**, Renqing Cuomao*, Daniil Yurshevich*, Anna Sotnikova, Lonneke van der Plas, Antoine Bosselut</span><br/>
+    <span class="conference">2026</span><br/>
+    [[paper](https://arxiv.org/abs/2604.03374)] [[benchmark](https://huggingface.co/datasets/mismayil/cresowlve)]
 
 1. **Creativity in AI: Progresses and Challenges**<br/>
     <span class="authors">**Mete Ismayilzada**, Debjit Paul, Antoine Bosselut, Lonneke van der Plas</span><br/>
@@ -31,6 +37,11 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
     [[paper](https://arxiv.org/abs/2410.17218)] [[code](https://github.com/mismayil/creativity-in-AI)] [[media](https://buildingcreativemachines.substack.com/p/unveiling-the-creativity-potential)]
 
 ## <span class="section-bar"></span> Publications
+1. **Apertus: Democratizing Open and Compliant LLMs for Global Language Environments**<br/>
+    <span class="authors">Apertus Team (*core contributor, Post-training & Evaluations)</span><br/>
+    <span class="conference">ACL 2026</span><br/>
+    [[paper](https://arxiv.org/abs/2509.14233)] [[code](https://github.com/swiss-ai)] [[huggingface](https://huggingface.co/swiss-ai)]
+
 1. **Creative Preference Optimization**<br/>
     <span class="authors">**Mete Ismayilzada**, Antonio Laverghetta Jr., Simone A. Luchini, Reet Patel, Antoine Bosselut, Lonneke van der Plas\*, Roger E. Beaty\*</span><br/>
     <span class="conference">EMNLP 2025 (Findings)</span><br/>
