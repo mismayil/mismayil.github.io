@@ -29,7 +29,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 1. **CresOWLve: Benchmarking Creative Problem-Solving Over Real-World Knowledge**<br/>
     <span class="authors">**Mete Ismayilzada**, Renqing Cuomao\*, Daniil Yurshevich\*, Anna Sotnikova, Lonneke van der Plas, Antoine Bosselut</span><br/>
     <span class="conference">2026</span><br/>
-    [[paper](https://arxiv.org/abs/2604.03374)] [[benchmark](https://huggingface.co/datasets/mismayil/cresowlve)]
+    [[project](https://www.mete.is/cresowlve/)] [[paper](https://arxiv.org/abs/2604.03374)] [[benchmark](https://huggingface.co/datasets/mismayil/cresowlve)]
 
 1. **Creativity in AI: Progresses and Challenges**<br/>
     <span class="authors">**Mete Ismayilzada**, Debjit Paul, Antoine Bosselut, Lonneke van der Plas</span><br/>
@@ -103,7 +103,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 1. **Visiting Research Student**. Università della Svizzera italiana. Lugano, Switzerland. <span class="dates">Mar 2025 - Present.</span>
 1. **Research Assistant**. Idiap Research Institute. Martigny, Switzerland. <span class="dates">Sep 2023 - Feb 2025.</span>
 1. **Research Assistant**. [Artificial Intelligence Lab](https://lia.epfl.ch/). EPFL. <span class="dates">Fall 2022.</span>
-1. **Research Intern**. Sony Inc. Tokyo, Japan. <span class="dates">Summer 2022.</span>
+1. **Research Intern**. Sony Inc. Tokyo, Japan. <span class="dates">Jul - Sep 2022.</span>
 
 ---
 
@@ -135,7 +135,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 ---
 
 ## <span class="section-bar"></span> Awards
-1. **Outstanding Reviewer**. ACL ARR. <span class="dates">Mar 2026.</span>
+1. **Outstanding Reviewer**. IJCNLP AACL. <span class="dates">Mar 2026.</span>
 1. **Swiss AI Initiative PhD Fellowship**. Awarded for contributions to the development of Apertus models. Swiss AI Initiative. <span class="dates">2025.</span>
 1. **Undergraduate Scholarship**. Full funding for undergraduate studies at the University of Waterloo. Government of Azerbaijan. <span class="dates">2012-2016.</span>
 1. **Certificate of Distinction**. Euclid Mathematics Contest. University of Waterloo. <span class="dates">2012.</span>
