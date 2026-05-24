@@ -19,6 +19,35 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 --- 
 
+## <span class="section-bar"></span> News
+
+<div class="news-container">
+  <div class="news-item"><span class="news-date">May 2026</span><span class="news-text"><a href="https://arxiv.org/abs/2604.03374">CresOWLve</a> accepted at the ICML Human-AI Co-Creativity Workshop 2026.</span></div>
+  <div class="news-item"><span class="news-date">Apr 2026</span><span class="news-text">Started a <strong>Research Internship</strong> at Microsoft Research, Cambridge, UK, working with Ryota Tomioka on LLMs for scientific discovery.</span></div>
+  <div class="news-item"><span class="news-date">Apr 2026</span><span class="news-text"><a href="https://arxiv.org/abs/2509.14233">Apertus</a> accepted at ACL 2026.</span></div>
+  <div class="news-item"><span class="news-date">Mar 2026</span><span class="news-text">Two preprints out: <a href="https://arxiv.org/abs/2604.03480">Large Language Models Align with the Human Brain during Creative Thinking</a> and <a href="https://arxiv.org/abs/2604.03374">CresOWLve: Benchmarking Creative Problem-Solving Over Real-World Knowledge</a>.</span></div>
+  <div class="news-item"><span class="news-date">Mar 2026</span><span class="news-text">Received the <strong>Outstanding Reviewer</strong> award at IJCNLP AACL.</span></div>
+  <div class="news-item"><span class="news-date">Oct 2025</span><span class="news-text">Awarded the <strong>Swiss AI Initiative PhD Fellowship</strong> for contributions to the development of Apertus models.</span></div>
+  <div class="news-item"><span class="news-date">Aug 2025</span><span class="news-text"><a href="https://aclanthology.org/2025.findings-emnlp.509/">Creative Preference Optimization (CrPO)</a> accepted at EMNLP 2025 (Findings).</span></div>
+  <div class="news-item"><span class="news-date">May 2025</span><span class="news-text"><a href="https://arxiv.org/abs/2411.02316">Evaluating Creative Short Story Generation in Humans and LLMs</a> accepted at ICCC 2025 (also presented at SfNC 2025).</span></div>
+  <div class="news-item"><span class="news-date">Apr 2025</span><span class="news-text"><a href="https://aclanthology.org/2025.naacl-long.59/">Evaluating Morphological Compositional Generalization in LLMs</a> accepted at NAACL 2025.</span></div>
+  <div class="news-item"><span class="news-date">Mar 2025</span><span class="news-text">Started as a <strong>Visiting Research Student</strong> at Università della Svizzera italiana, supervised by prof. Lonneke van der Plas.</span></div>
+  <div class="news-item"><span class="news-date">Nov 2024</span><span class="news-text"><a href="https://www.pnas.org/doi/10.1073/pnas.2414955121">Could ChatGPT get an Engineering Degree?</a> published in PNAS 2024.</span></div>
+  <div class="news-item"><span class="news-date">Oct 2024</span><span class="news-text">Preprint out: <a href="https://arxiv.org/abs/2410.17218">Creativity in AI: Progresses and Challenges</a>.</span></div>
+  <div class="news-item"><span class="news-date">Aug 2024</span><span class="news-text"><a href="https://aclanthology.org/2024.acl-long.264/">DiffuCOMET</a> accepted at ACL 2024.</span></div>
+  <div class="news-item"><span class="news-date">Aug 2024</span><span class="news-text"><a href="https://aclanthology.org/2024.findings-acl.384/">Exploring Defeasibility in Causal Reasoning</a> accepted at ACL 2024 (Findings).</span></div>
+  <div class="news-item"><span class="news-date">Mar 2024</span><span class="news-text"><a href="https://aclanthology.org/2024.eacl-long.67/">REFINER</a> accepted at EACL 2024.</span></div>
+  <div class="news-item"><span class="news-date">Dec 2023</span><span class="news-text"><a href="https://aclanthology.org/2023.emnlp-main.607">CRoW</a> accepted at AAAI NucLeaR Workshop 2024.</span></div>
+  <div class="news-item"><span class="news-date">Oct 2023</span><span class="news-text"><a href="https://aclanthology.org/2023.emnlp-main.607">CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks</a> accepted at EMNLP 2023 as an Oral presentation.</span></div>
+  <div class="news-item"><span class="news-date">Sep 2023</span><span class="news-text">Started as a <strong>Research Assistant</strong> at Idiap Research Institute, Martigny, Switzerland.</span></div>
+  <div class="news-item"><span class="news-date">Sep 2023</span><span class="news-text">Started <strong>Ph.D. in Computer Science</strong> at EPFL, advised by prof. Lonneke van der Plas (Idiap) and prof. Antoine Bosselut (EPFL).</span></div>
+  <div class="news-item"><span class="news-date">May 2023</span><span class="news-text"><a href="https://aclanthology.org/2023.eacl-demo.12">kogito</a> accepted at EACL 2023 System Demonstrations Track.</span></div>
+  <div class="news-item"><span class="news-date">Jul 2022</span><span class="news-text">Started a <strong>Research Internship</strong> at Sony Inc., Tokyo, Japan.</span></div>
+  <div class="news-item"><span class="news-date">Sep 2021</span><span class="news-text">Started <strong>MSc in Data Science</strong> at EPFL, Lausanne, Switzerland.</span></div>
+</div>
+
+--- 
+
 ## <span class="section-bar"></span> Preprints
 
 1. **Large Language Models Align with the Human Brain during Creative Thinking**<br/>
@@ -28,7 +57,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 1. **CresOWLve: Benchmarking Creative Problem-Solving Over Real-World Knowledge**<br/>
     <span class="authors">**Mete Ismayilzada**, Renqing Cuomao\*, Daniil Yurshevich\*, Anna Sotnikova, Lonneke van der Plas, Antoine Bosselut</span><br/>
-    <span class="conference">2026</span><br/>
+    <span class="conference">ICML Human-AI Co-Creativity Workshop 2026</span><br/>
     [[project](https://www.mete.is/cresowlve/)] [[paper](https://arxiv.org/abs/2604.03374)] [[benchmark](https://huggingface.co/datasets/mismayil/cresowlve)]
 
 1. **Creativity in AI: Progresses and Challenges**<br/>
@@ -59,7 +88,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 1. **CRoW: Benchmarking Commonsense Reasoning in Real-World Tasks**<br/>
     <span class="authors">**Mete Ismayilzada**, Debjit Paul\*, Syrielle Montariol\*, Mor Geva, Antoine Bosselut</span><br/>
-    <span class="conference">EMNLP 2023 (Oral)</span><br/>
+    <span class="conference">EMNLP 2023 (Oral, also presented at AAAI NucLeaR Workshop 2024)</span><br/>
     [[paper](https://aclanthology.org/2023.emnlp-main.607)] [[website](https://mete.is/crow)] 
 
 1. **kogito: A Commonsense Knowledge Inference Toolkit.**<br/>
