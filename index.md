@@ -5,7 +5,7 @@ layout: default
 
 <img class="profile-picture" src="profile-picture.jpeg">
 
-I am a CS **Ph.D. student** at [EPFL](https://epfl.ch) advised by prof.[Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP lab](https://nlp.epfl.ch) and a Visiting Researcher at the [Università della Svizzera italiana](https://usi-nlp.github.io) supervised by prof.[Lonneke van der Plas](https://sites.google.com/site/lonnekenlp/). Currently, I am doing a **Research Intership** at Microsoft Research working with Ryota Tomioka on using LLMs for accelerating scientific discoveries.
+I am a CS **Ph.D. student** at [EPFL](https://epfl.ch) advised by prof.[Antoine Bosselut](https://atcbosselut.github.io/) at the [NLP lab](https://nlp.epfl.ch) and a Visiting Researcher at the [Università della Svizzera italiana](https://usi-nlp.github.io) supervised by prof.[Lonneke van der Plas](https://sites.google.com/site/lonnekenlp/). Currently, I am working as a **Student Researcher** in the Discovery team at Google DeepMind (London).
 
 Previously, I completed my MSc. in Data Science at EPFL where I did research on commonsense and causal reasoning. In the past, I have been a software/ML engineer, co-founder/entrepreneur and have 5+ years of experience in areas ranging from semiconductors to AI. I am also a proud University of Waterloo alumnus where I finished my Bachelor's in Computer Science with distinction.
 
@@ -22,6 +22,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 ## <span class="section-bar"></span> News
 
 <div class="news-container">
+  <div class="news-item"><span class="news-date">July 2026</span><span class="news-text">Joined the Discovery team at Google DeepMind in London, UK as a <strong>Student Researcher</strong>.</span></div>
   <div class="news-item"><span class="news-date">May 2026</span><span class="news-text"><a href="https://arxiv.org/abs/2604.03374">CresOWLve</a> accepted at the ICML Human-AI Co-Creativity Workshop 2026.</span></div>
   <div class="news-item"><span class="news-date">Apr 2026</span><span class="news-text">Started a <strong>Research Internship</strong> at Microsoft Research, Cambridge, UK, working with Ryota Tomioka on LLMs for scientific discovery.</span></div>
   <div class="news-item"><span class="news-date">Apr 2026</span><span class="news-text"><a href="https://arxiv.org/abs/2509.14233">Apertus</a> accepted at ACL 2026.</span></div>
@@ -128,7 +129,8 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ## <span class="section-bar"></span> Research Experience
 
-1. **Research Intern**. Microsoft Research. Cambridge, UK. <span class="dates">Apr 2026 - Present.</span>
+1. **Student Researcher**. Google DeepMind. London, UK. <span class="dates">Jul 2026 - Present.</span>
+1. **Research Intern**. Microsoft Research. Cambridge, UK. <span class="dates">Apr 2026 - Jun 2026.</span>
 1. **Visiting Research Student**. Università della Svizzera italiana. Lugano, Switzerland. <span class="dates">Mar 2025 - Present.</span>
 1. **Research Assistant**. Idiap Research Institute. Martigny, Switzerland. <span class="dates">Sep 2023 - Feb 2025.</span>
 1. **Research Assistant**. [Artificial Intelligence Lab](https://lia.epfl.ch/). EPFL. <span class="dates">Fall 2022.</span>
