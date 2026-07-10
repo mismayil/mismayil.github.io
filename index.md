@@ -22,7 +22,8 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 ## <span class="section-bar"></span> News
 
 <div class="news-container">
-  <div class="news-item"><span class="news-date">July 2026</span><span class="news-text">Joined the Discovery team at Google DeepMind in London, UK as a <strong>Student Researcher</strong>.</span></div>
+  <div class="news-item"><span class="news-date">Jul 2026</span><span class="news-text">Two papers accepted at COLM 2026: <a href="https://arxiv.org/abs/2604.03374">CresOWLve</a> and <a href="https://arxiv.org/abs/2604.03480">Brain-LLM creativity alignment</a></span>.</div>
+  <div class="news-item"><span class="news-date">Jul 2026</span><span class="news-text">Joined the Discovery team at Google DeepMind in London, UK as a <strong>Student Researcher</strong>.</span></div>
   <div class="news-item"><span class="news-date">May 2026</span><span class="news-text"><a href="https://arxiv.org/abs/2604.03374">CresOWLve</a> accepted at the ICML Human-AI Co-Creativity Workshop 2026.</span></div>
   <div class="news-item"><span class="news-date">Apr 2026</span><span class="news-text">Started a <strong>Research Internship</strong> at Microsoft Research, Cambridge, UK, working with Ryota Tomioka on LLMs for scientific discovery.</span></div>
   <div class="news-item"><span class="news-date">Apr 2026</span><span class="news-text"><a href="https://arxiv.org/abs/2509.14233">Apertus</a> accepted at ACL 2026.</span></div>
@@ -51,22 +52,22 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ## <span class="section-bar"></span> Preprints
 
-1. **Large Language Models Align with the Human Brain during Creative Thinking**<br/>
-    <span class="authors">**Mete Ismayilzada**, Simone A. Luchini, Abdulkadir Gokce, Badr AlKhamissi, Antoine Bosselut, Antonio Laverghetta Jr., Lonneke van der Plas\*, Roger E. Beaty\*</span><br/>
-    <span class="conference">2026</span><br/>
-    [[paper](https://arxiv.org/abs/2604.03480)]
-
-1. **CresOWLve: Benchmarking Creative Problem-Solving Over Real-World Knowledge**<br/>
-    <span class="authors">**Mete Ismayilzada**, Renqing Cuomao\*, Daniil Yurshevich\*, Anna Sotnikova, Lonneke van der Plas, Antoine Bosselut</span><br/>
-    <span class="conference">ICML Human-AI Co-Creativity Workshop 2026</span><br/>
-    [[project](https://www.mete.is/cresowlve/)] [[paper](https://arxiv.org/abs/2604.03374)] [[benchmark](https://huggingface.co/datasets/mismayil/cresowlve)]
-
 1. **Creativity in AI: Progresses and Challenges**<br/>
     <span class="authors">**Mete Ismayilzada**, Debjit Paul, Antoine Bosselut, Lonneke van der Plas</span><br/>
     <span class="conference">2024</span><br/>
     [[paper](https://arxiv.org/abs/2410.17218)] [[code](https://github.com/mismayil/creativity-in-AI)] [[media](https://buildingcreativemachines.substack.com/p/unveiling-the-creativity-potential)]
 
 ## <span class="section-bar"></span> Publications
+1. **Large Language Models Align with the Human Brain during Creative Thinking**<br/>
+    <span class="authors">**Mete Ismayilzada**, Simone A. Luchini, Abdulkadir Gokce, Badr AlKhamissi, Antoine Bosselut, Antonio Laverghetta Jr., Lonneke van der Plas\*, Roger E. Beaty\*</span><br/>
+    <span class="conference">COLM 2026</span><br/>
+    [[paper](https://arxiv.org/abs/2604.03480)]
+
+1. **CresOWLve: Benchmarking Creative Problem-Solving Over Real-World Knowledge**<br/>
+    <span class="authors">**Mete Ismayilzada**, Renqing Cuomao\*, Daniil Yurshevich\*, Anna Sotnikova, Lonneke van der Plas, Antoine Bosselut</span><br/>
+    <span class="conference">COLM 2026 and ICML Human-AI Co-Creativity Workshop 2026</span><br/>
+    [[project](https://www.mete.is/cresowlve/)] [[paper](https://arxiv.org/abs/2604.03374)] [[benchmark](https://huggingface.co/datasets/mismayil/cresowlve)]
+
 1. **Apertus: Democratizing Open and Compliant LLMs for Global Language Environments**<br/>
     <span class="authors">Apertus Team (*core contributor, Post-training & Evaluations)</span><br/>
     <span class="conference">ACL 2026</span><br/>
@@ -160,7 +161,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ## <span class="section-bar"></span> Service
 
-1. **Reviewer**. ACL ARR, SEM (Apr 2024), EACL (SRW Jan 2024, 2026), Journal of Creative Behaviour (Feb 2026).
+1. **Reviewer**. COLM (2026), ICML Human-AI Co-creativity Workshop (2026), ACL ARR, SEM (Apr 2024), EACL (SRW Jan 2024, 2026), Journal of Creative Behaviour (Feb 2026).
 1. **Volunteer**. Perspectives on AI Symposiums. IDIAP. <span class="dates">Feb 2024.</span>
 
 ---
