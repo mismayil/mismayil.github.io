@@ -61,7 +61,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 1. **Large Language Models Align with the Human Brain during Creative Thinking**<br/>
     <span class="authors">**Mete Ismayilzada**, Simone A. Luchini, Abdulkadir Gokce, Badr AlKhamissi, Antoine Bosselut, Antonio Laverghetta Jr., Lonneke van der Plas\*, Roger E. Beaty\*</span><br/>
     <span class="conference">COLM 2026</span><br/>
-    [[paper](https://arxiv.org/abs/2604.03480)]
+    [[paper](https://arxiv.org/abs/2604.03480)] [[code](https://github.com/mismayil/llm-brain-creative-alignment)]
 
 1. **CresOWLve: Benchmarking Creative Problem-Solving Over Real-World Knowledge**<br/>
     <span class="authors">**Mete Ismayilzada**, Renqing Cuomao\*, Daniil Yurshevich\*, Anna Sotnikova, Lonneke van der Plas, Antoine Bosselut</span><br/>
