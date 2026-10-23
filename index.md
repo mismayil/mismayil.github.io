@@ -22,6 +22,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 ## <span class="section-bar"></span> News
 
 <div class="news-container">
+  <div class="news-item"><span class="news-date">Oct 2026</span><span class="news-text">I will be giving an invited <a href="https://informatics.ed.ac.uk/ilcc/news-events/upcoming-seminars">talk</a> at the Institute for Language, Cognition and Computation (ILCC), University of Edinburgh on Oct 30, 2026.</span></div>
   <div class="news-item"><span class="news-date">Jul 2026</span><span class="news-text">Two papers accepted at COLM 2026: <a href="https://arxiv.org/abs/2604.03374">CresOWLve</a> and <a href="https://arxiv.org/abs/2604.03480">Brain-LLM creativity alignment</a></span>.</div>
   <div class="news-item"><span class="news-date">Jul 2026</span><span class="news-text">Joined the Discovery team at Google DeepMind in London, UK as a <strong>Student Researcher</strong>.</span></div>
   <div class="news-item"><span class="news-date">May 2026</span><span class="news-text"><a href="https://arxiv.org/abs/2604.03374">CresOWLve</a> accepted at the ICML Human-AI Co-Creativity Workshop 2026.</span></div>
@@ -64,7 +65,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
     [[paper](https://arxiv.org/abs/2604.03480)] [[code](https://github.com/mismayil/llm-brain-creative-alignment)]
 
 1. **CresOWLve: Benchmarking Creative Problem-Solving Over Real-World Knowledge**<br/>
-    <span class="authors">**Mete Ismayilzada**, Renqing Cuomao\*, Daniil Yurshevich\*, Anna Sotnikova, Lonneke van der Plas, Antoine Bosselut</span><br/>
+    <span class="authors">**Mete Ismayilzada**, Renqing Cuomao\*, Daniil Yurshevich\*, Anna Sotnikova, Lonneke van der Plas\*, Antoine Bosselut\*</span><br/>
     <span class="conference">COLM 2026 and ICML Human-AI Co-Creativity Workshop 2026</span><br/>
     [[project](https://www.mete.is/cresowlve/)] [[paper](https://arxiv.org/abs/2604.03374)] [[benchmark](https://huggingface.co/datasets/mismayil/cresowlve)]
 
