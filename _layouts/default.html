@@ -81,6 +81,13 @@
                 {% for x in site.nav %}
                     {% if x.name == "Resume" %}
                         <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
+                    {% elsif x.children %}
+                        <li class="alignable pull-left nav-list nav-dropdown"><a href="{{ x.link }}">{{ x.name }}</a>
+                        <ul class="nav-submenu">
+                            {% for c in x.children %}
+                                <li><a href="{{ c.link }}">{{ c.name }}</a></li>
+                            {% endfor %}
+                        </ul>
                     {% else %}
                         <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
                     {% endif %}

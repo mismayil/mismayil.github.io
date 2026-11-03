@@ -53,6 +53,40 @@ hr {
     list-style-type: none;
     margin: 0 5px 0 10px;
 }
+.nav-dropdown {
+    position: relative;
+}
+.nav-dropdown > a::after {
+    content: "";
+    display: inline-block;
+    margin-left: 4px;
+    vertical-align: middle;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    border-top: 5px solid currentColor;
+}
+.nav-submenu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 10;
+    margin: 0;
+    padding: 5px 0;
+    list-style-type: none;
+    text-align: left;
+    white-space: nowrap;
+    background-color: #fffff8;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.nav-submenu li a {
+    display: block;
+    padding: 3px 12px;
+}
+.nav-dropdown:hover .nav-submenu,
+.nav-dropdown:focus-within .nav-submenu {
+    display: block;
+}
 .alignable {
     display: inline-block;
 }
