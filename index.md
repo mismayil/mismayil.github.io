@@ -160,6 +160,14 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ---
 
+## <span class="section-bar"></span> Invited Talks
+
+1. **Are LLMs Creative? It Depends on What You Measure**. Institute for Language, Cognition and Computation (ILCC). University of Edinburgh. <span class="dates">Oct 2026.</span>
+1. **Creative Preference Optimization**. SMASH Research Group. University of Edinburgh. <span class="dates">Aug 2026.</span>
+1. **Apertus: A Primer on Training LLMs**. Advanced Topics in NLP (Guest Lecture). Università della Svizzera italiana. <span class="dates">Mar 2026.</span>
+
+---
+
 ## <span class="section-bar"></span> Service
 
 1. **Reviewer**. COLM (2026), ICML Human-AI Co-creativity Workshop (2026), ACL ARR, SEM (Apr 2024), EACL (SRW Jan 2024, 2026), Journal of Creative Behaviour (Feb 2026).
@@ -169,7 +177,7 @@ My interests broadly lie within the nature of **robust artificial intelligence, 
 
 ## <span class="section-bar"></span> Awards
 1. **Outstanding Reviewer**. IJCNLP AACL. <span class="dates">Mar 2026.</span>
-1. **Swiss AI Initiative PhD Fellowship**. Awarded for contributions to the development of Apertus models. Swiss AI Initiative. <span class="dates">2025.</span>
+1. **EPFL AI Center Fellowship**. Awarded for contributions to the development of Apertus models. Swiss AI Initiative. <span class="dates">2025.</span>
 1. **Undergraduate Scholarship**. Full funding for undergraduate studies at the University of Waterloo. Government of Azerbaijan. <span class="dates">2012-2016.</span>
 1. **Certificate of Distinction**. Euclid Mathematics Contest. University of Waterloo. <span class="dates">2012.</span>
 1. **Presidential Scholarship**. Awarded to top students entering university studies. Government of Azerbaijan. <span class="dates">2010.</span>
